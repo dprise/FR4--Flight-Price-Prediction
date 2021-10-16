@@ -1,0 +1,2296 @@
+,Airline,Journey_date,From,To,Dtime,Atime,Stops,Price
+1,Spicejet,15/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5315.0
+2,Go First,15/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5315.0
+3,Spicejet,15/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+4,Go First,15/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+5,Go First,15/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+6,Go First,15/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+7,Go First,15/10/2021,Goa,Ahmedabad,13:40,21:05,1 stop via Mumbai,5315.0
+8,Go First,15/10/2021,Goa,Ahmedabad,17:25,08:35,1 stop via New Delhi,5315.0
+9,IndiGo,15/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5316.0
+10,IndiGo,15/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+11,IndiGo,15/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+12,IndiGo,15/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,5316.0
+13,IndiGo,15/10/2021,Goa,Ahmedabad,16:30,23:25,1 stop via Mumbai,5316.0
+14,IndiGo,15/10/2021,Goa,Ahmedabad,14:40,21:15,1 stop via Hyderabad,5773.0
+15,"Go First, Air India",15/10/2021,Goa,Ahmedabad,13:40,18:10,1 stop via Mumbai,7898.0
+16,"AirAsia, Go First",15/10/2021,Goa,Ahmedabad,18:55,08:30,"2 stop via Mumbai,Bengaluru",7899.0
+17,Spicejet,16/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+18,Spicejet,16/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5315.0
+19,Go First,16/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5315.0
+20,Spicejet,16/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+21,Go First,16/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+22,Go First,16/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+23,Go First,16/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+24,Go First,16/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+25,Go First,16/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+26,IndiGo,16/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+27,IndiGo,16/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5316.0
+28,IndiGo,16/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+29,IndiGo,16/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+30,IndiGo,16/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+31,IndiGo,16/10/2021,Goa,Ahmedabad,12:00,17:40,1 stop via Mumbai,5316.0
+32,IndiGo,16/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,5316.0
+33,IndiGo,16/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5316.0
+34,IndiGo,16/10/2021,Goa,Ahmedabad,10:40,18:30,1 stop via Nagpur,6230.0
+35,Air India,16/10/2021,Goa,Ahmedabad,07:30,18:10,1 stop via Mumbai,6724.0
+36,"Spicejet, IndiGo",16/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,7898.0
+37,"Go First, Air India",16/10/2021,Goa,Ahmedabad,13:40,18:10,1 stop via Mumbai,7898.0
+38,"Go First, IndiGo",16/10/2021,Goa,Ahmedabad,14:25,19:45,1 stop via Mumbai,7898.0
+39,"AirAsia, Go First",16/10/2021,Goa,Ahmedabad,07:55,12:55,1 stop via Mumbai,7899.0
+40,"AirAsia, IndiGo",16/10/2021,Goa,Ahmedabad,09:55,14:40,1 stop via Mumbai,7900.0
+41,"Vistara, Air India",16/10/2021,Goa,Ahmedabad,13:20,18:10,1 stop via Mumbai,7900.0
+42,"IndiGo, Go First",16/10/2021,Goa,Ahmedabad,16:30,21:05,1 stop via Mumbai,8003.0
+43,IndiGo,17/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,8361.0
+44,Go First,17/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5315.0
+45,Go First,17/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+46,Spicejet,17/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+47,Spicejet,17/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+48,Spicejet,17/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5315.0
+49,Spicejet,17/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,9095.0
+50,Spicejet,17/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,9621.0
+51,IndiGo,17/10/2021,Goa,Ahmedabad,16:30,23:25,1 stop via Mumbai,9884.0
+52,Go First,17/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,10145.0
+53,IndiGo,17/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,10986.0
+54,"Vistara, Go First",17/10/2021,Goa,Ahmedabad,15:15,08:30,"2 stop via Mumbai,Bengaluru",10997.0
+55,"Vistara, Go First",17/10/2021,Goa,Ahmedabad,15:15,08:30,"2 stop via Mumbai,Bengaluru",10997.0
+56,"Vistara, IndiGo",17/10/2021,Goa,Ahmedabad,15:15,19:45,1 stop via Mumbai,10998.0
+57,"Spicejet, Go First",17/10/2021,Goa,Ahmedabad,09:15,17:15,1 stop via Mumbai,11677.0
+58,IndiGo,17/10/2021,Goa,Ahmedabad,10:40,15:25,1 stop via Nagpur,11711.0
+59,IndiGo,17/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,11711.0
+60,IndiGo,17/10/2021,Goa,Ahmedabad,11:45,19:45,1 stop via Mumbai,11711.0
+61,IndiGo,17/10/2021,Goa,Ahmedabad,14:40,21:15,1 stop via Hyderabad,12167.0
+62,"AirAsia, Go First",17/10/2021,Goa,Ahmedabad,09:55,17:15,1 stop via Mumbai,12202.0
+63,"Air India, IndiGo",17/10/2021,Goa,Ahmedabad,15:20,21:10,1 stop via Mumbai,13255.0
+64,IndiGo,17/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,13874.0
+65,"IndiGo, Go First",17/10/2021,Goa,Ahmedabad,11:45,17:15,1 stop via Mumbai,14093.0
+66,"Air India, Go First",17/10/2021,Goa,Ahmedabad,15:20,21:05,1 stop via Mumbai,14094.0
+67,"Vistara, Air India",17/10/2021,Goa,Ahmedabad,13:20,18:10,1 stop via Mumbai,14095.0
+68,Spicejet,17/10/2021,Goa,Ahmedabad,17:40,19:20,Non stop,14451.0
+69,Spicejet,17/10/2021,Goa,Ahmedabad,18:15,20:20,Non stop,14451.0
+70,"IndiGo, Go First",17/10/2021,Goa,Ahmedabad,16:30,21:05,1 stop via Mumbai,15143.0
+71,Go First,18/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5893.0
+72,IndiGo,18/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,6156.0
+73,IndiGo,18/10/2021,Goa,Ahmedabad,12:00,17:40,1 stop via Mumbai,7143.0
+74,Spicejet,18/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,7521.0
+75,IndiGo,18/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,7600.0
+76,IndiGo,18/10/2021,Goa,Ahmedabad,10:55,21:10,1 stop via Mumbai,7600.0
+77,IndiGo,18/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,7836.0
+78,IndiGo,18/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,8057.0
+79,IndiGo,18/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,8057.0
+80,IndiGo,18/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,8057.0
+81,IndiGo,18/10/2021,Goa,Ahmedabad,10:40,18:30,1 stop via Nagpur,8513.0
+82,IndiGo,18/10/2021,Goa,Ahmedabad,16:30,23:25,1 stop via Mumbai,8513.0
+83,IndiGo,18/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,8970.0
+84,Spicejet,18/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,9095.0
+85,Spicejet,18/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,9621.0
+86,IndiGo,18/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,9936.0
+87,IndiGo,18/10/2021,Goa,Ahmedabad,14:40,21:15,1 stop via Hyderabad,10797.0
+88,IndiGo,18/10/2021,Goa,Ahmedabad,14:40,21:15,1 stop via Hyderabad,10797.0
+89,IndiGo,18/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,11254.0
+90,Go First,18/10/2021,Goa,Ahmedabad,13:40,17:15,1 stop via Mumbai,11793.0
+91,Go First,18/10/2021,Goa,Ahmedabad,11:45,17:15,1 stop via Mumbai,12633.0
+92,Go First,18/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,14451.0
+93,Vistara,18/10/2021,Goa,Ahmedabad,14:30,19:40,1 stop via New Delhi,19807.0
+94,Air India,18/10/2021,Goa,Ahmedabad,15:25,21:30,1 stop via New Delhi,19807.0
+95,IndiGo,19/10/2021,Goa,Ahmedabad,10:40,18:30,1 stop via Nagpur,8057.0
+96,Go First,19/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+97,Spicejet,19/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+98,Spicejet,19/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+99,IndiGo,19/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+100,IndiGo,19/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5316.0
+101,IndiGo,19/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,8057.0
+102,Go First,19/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,8465.0
+103,Spicejet,19/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,8571.0
+104,IndiGo,19/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,8781.0
+105,IndiGo,19/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,8781.0
+106,Spicejet,19/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,9621.0
+107,IndiGo,19/10/2021,Goa,Ahmedabad,09:15,17:40,1 stop via Mumbai,9884.0
+108,IndiGo,19/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,9936.0
+109,Go First,19/10/2021,Goa,Ahmedabad,09:35,21:05,1 stop via Mumbai,10113.0
+110,Go First,19/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,10145.0
+111,IndiGo,19/10/2021,Goa,Ahmedabad,11:15,21:15,1 stop via Hyderabad,10340.0
+112,IndiGo,19/10/2021,Goa,Ahmedabad,20:05,06:50,1 stop via Hyderabad,10340.0
+113,Spicejet,20/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+114,Spicejet,20/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+115,Go First,20/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+116,Go First,20/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+117,Go First,20/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+118,Go First,20/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+119,IndiGo,20/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+120,IndiGo,20/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+121,IndiGo,20/10/2021,Goa,Ahmedabad,10:40,18:30,1 stop via Nagpur,5316.0
+122,IndiGo,20/10/2021,Goa,Ahmedabad,13:10,19:45,1 stop via Mumbai,5316.0
+123,IndiGo,20/10/2021,Goa,Ahmedabad,10:55,19:45,1 stop via Mumbai,5316.0
+124,IndiGo,20/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+125,IndiGo,20/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,5316.0
+126,IndiGo,20/10/2021,Goa,Ahmedabad,16:30,23:25,1 stop via Mumbai,5316.0
+127,Spicejet,20/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5631.0
+128,IndiGo,20/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5736.0
+129,IndiGo,20/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5773.0
+130,IndiGo,20/10/2021,Goa,Ahmedabad,12:00,19:45,1 stop via Mumbai,5773.0
+131,Go First,20/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+132,IndiGo,20/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,7143.0
+133,Go First,20/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,7593.0
+134,IndiGo,20/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,7679.0
+135,Air India,20/10/2021,Goa,Ahmedabad,07:30,18:10,1 stop via Mumbai,7995.0
+136,Vistara,20/10/2021,Goa,Ahmedabad,12:15,19:40,"2 stop via Mumbai,New Delhi",15345.0
+137,Spicejet,21/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+138,Go First,21/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+139,Go First,21/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+140,Go First,21/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+141,Go First,21/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+142,Go First,21/10/2021,Goa,Ahmedabad,11:45,17:15,1 stop via Mumbai,5315.0
+143,Go First,21/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+144,Go First,21/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+145,Go First,21/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+146,IndiGo,21/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+147,IndiGo,21/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+148,IndiGo,21/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+149,IndiGo,21/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+150,IndiGo,21/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+151,IndiGo,21/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,5316.0
+152,IndiGo,21/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5316.0
+153,IndiGo,21/10/2021,Goa,Ahmedabad,14:40,21:15,1 stop via Hyderabad,5316.0
+154,IndiGo,21/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+155,IndiGo,21/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,5316.0
+156,Spicejet,21/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5421.0
+157,Go First,21/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+158,Spicejet,21/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,6365.0
+159,Air India,21/10/2021,Goa,Ahmedabad,07:30,18:10,1 stop via Mumbai,6724.0
+160,Go First,21/10/2021,Goa,Ahmedabad,13:40,17:15,1 stop via Mumbai,7383.0
+161,IndiGo,21/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,9516.0
+162,Vistara,21/10/2021,Goa,Ahmedabad,11:35,19:40,1 stop via New Delhi,11834.0
+163,Spicejet,22/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+164,Spicejet,22/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+165,Go First,22/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+166,Go First,22/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+167,Go First,22/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+168,Go First,22/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+169,Go First,22/10/2021,Goa,Ahmedabad,11:45,17:15,1 stop via Mumbai,5315.0
+170,Go First,22/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+171,Go First,22/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+172,Go First,22/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+173,IndiGo,22/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+174,IndiGo,22/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5316.0
+175,IndiGo,22/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+176,IndiGo,22/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+177,IndiGo,22/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+178,IndiGo,22/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+179,IndiGo,22/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,5316.0
+180,IndiGo,22/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+181,IndiGo,22/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,5316.0
+182,IndiGo,22/10/2021,Goa,Ahmedabad,16:30,23:25,1 stop via Mumbai,5316.0
+183,Spicejet,22/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5631.0
+184,IndiGo,22/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5773.0
+185,Go First,22/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+186,Air India,22/10/2021,Goa,Ahmedabad,12:30,18:10,1 stop via Mumbai,6724.0
+187,Vistara,22/10/2021,Goa,Ahmedabad,11:35,19:40,1 stop via New Delhi,11254.0
+188,Spicejet,23/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+189,Spicejet,23/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+190,Go First,23/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+191,Go First,23/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+192,Go First,23/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+193,Go First,23/10/2021,Goa,Ahmedabad,13:40,17:15,1 stop via Mumbai,5315.0
+194,Go First,23/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+195,Go First,23/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+196,Go First,23/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+197,IndiGo,23/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+198,IndiGo,23/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5316.0
+199,IndiGo,23/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+200,IndiGo,23/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+201,IndiGo,23/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+202,IndiGo,23/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+203,IndiGo,23/10/2021,Goa,Ahmedabad,12:00,17:40,1 stop via Mumbai,5316.0
+204,IndiGo,23/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,5316.0
+205,IndiGo,23/10/2021,Goa,Ahmedabad,10:40,18:30,1 stop via Nagpur,5316.0
+206,IndiGo,23/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5316.0
+207,IndiGo,23/10/2021,Goa,Ahmedabad,14:40,21:15,1 stop via Hyderabad,5316.0
+208,IndiGo,23/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+209,IndiGo,23/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,5316.0
+210,Spicejet,23/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5841.0
+211,Go First,23/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+212,Air India,23/10/2021,Goa,Ahmedabad,07:30,18:10,1 stop via Mumbai,6724.0
+213,Vistara,23/10/2021,Goa,Ahmedabad,11:35,19:40,1 stop via New Delhi,11254.0
+214,Spicejet,24/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+215,IndiGo,24/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+216,IndiGo,24/10/2021,Goa,Ahmedabad,10:40,15:25,1 stop via Nagpur,5316.0
+217,IndiGo,24/10/2021,Goa,Ahmedabad,16:30,23:25,1 stop via Mumbai,6230.0
+218,Go First,24/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,6471.0
+219,Spicejet,24/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,6681.0
+220,IndiGo,24/10/2021,Goa,Ahmedabad,20:05,06:50,1 stop via Hyderabad,6686.0
+221,Air India,24/10/2021,Goa,Ahmedabad,07:30,18:10,1 stop via Mumbai,6724.0
+222,Go First,24/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,7033.0
+223,Spicejet,24/10/2021,Goa,Ahmedabad,18:15,20:20,Non stop,7101.0
+224,IndiGo,24/10/2021,Goa,Ahmedabad,11:15,21:15,1 stop via Hyderabad,7143.0
+225,IndiGo,24/10/2021,Goa,Ahmedabad,11:15,21:15,1 stop via Hyderabad,7143.0
+226,Go First,24/10/2021,Goa,Ahmedabad,07:20,17:15,1 stop via Mumbai,7383.0
+227,IndiGo,24/10/2021,Goa,Ahmedabad,13:10,23:25,1 stop via Mumbai,7600.0
+228,IndiGo,24/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,7836.0
+229,Spicejet,24/10/2021,Goa,Ahmedabad,17:40,19:20,Non stop,8045.0
+230,IndiGo,24/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,8057.0
+231,IndiGo,24/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,8057.0
+232,IndiGo,24/10/2021,Goa,Ahmedabad,09:15,17:40,1 stop via Mumbai,8834.0
+233,IndiGo,24/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,8970.0
+234,IndiGo,24/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,8970.0
+235,IndiGo,24/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,9427.0
+236,IndiGo,24/10/2021,Goa,Ahmedabad,11:45,17:40,1 stop via Mumbai,10340.0
+237,Vistara,24/10/2021,Goa,Ahmedabad,11:35,19:40,1 stop via New Delhi,11834.0
+238,Go First,24/10/2021,Goa,Ahmedabad,13:40,17:15,1 stop via Mumbai,12633.0
+239,Spicejet,25/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+240,Go First,25/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+241,Go First,25/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+242,Go First,25/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+243,Go First,25/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+244,IndiGo,25/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+245,IndiGo,25/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+246,IndiGo,25/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+247,IndiGo,25/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,5316.0
+248,IndiGo,25/10/2021,Goa,Ahmedabad,10:40,18:30,1 stop via Nagpur,5316.0
+249,IndiGo,25/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+250,IndiGo,25/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,5316.0
+251,IndiGo,25/10/2021,Goa,Ahmedabad,20:05,06:50,1 stop via Hyderabad,5316.0
+252,Spicejet,25/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5421.0
+253,IndiGo,25/10/2021,Goa,Ahmedabad,12:00,17:40,1 stop via Mumbai,5773.0
+254,Go First,25/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+255,Spicejet,25/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,6365.0
+256,IndiGo,25/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,7143.0
+257,Spicejet,26/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+258,Spicejet,26/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5315.0
+259,Spicejet,26/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+260,Go First,26/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+261,Go First,26/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+262,Go First,26/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+263,Go First,26/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+264,Go First,26/10/2021,Goa,Ahmedabad,13:40,17:15,1 stop via Mumbai,5315.0
+265,Go First,26/10/2021,Goa,Ahmedabad,11:45,17:15,1 stop via Mumbai,5315.0
+266,Go First,26/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+267,Go First,26/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+268,Go First,26/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+269,IndiGo,26/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+270,IndiGo,26/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5316.0
+271,IndiGo,26/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+272,IndiGo,26/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+273,IndiGo,26/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+274,IndiGo,26/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+275,IndiGo,26/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5316.0
+276,IndiGo,26/10/2021,Goa,Ahmedabad,14:40,21:15,1 stop via Hyderabad,5316.0
+277,IndiGo,26/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+278,IndiGo,26/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,5316.0
+279,Go First,26/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+280,Air India,26/10/2021,Goa,Ahmedabad,07:30,18:10,1 stop via Mumbai,6724.0
+281,Vistara,26/10/2021,Goa,Ahmedabad,14:30,19:40,1 stop via New Delhi,10629.0
+282,Spicejet,27/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+283,Spicejet,27/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5315.0
+284,Spicejet,27/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+285,Go First,27/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+286,Go First,27/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+287,Go First,27/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+288,Go First,27/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+289,Go First,27/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+290,Go First,27/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+291,Go First,27/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+292,Go First,27/10/2021,Goa,Ahmedabad,13:40,21:05,1 stop via Mumbai,5315.0
+293,Go First,27/10/2021,Goa,Ahmedabad,11:45,21:05,1 stop via Mumbai,5315.0
+294,Go First,27/10/2021,Goa,Ahmedabad,17:25,08:35,1 stop via New Delhi,5315.0
+295,IndiGo,27/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+296,IndiGo,27/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5316.0
+297,IndiGo,27/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+298,IndiGo,27/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+299,IndiGo,27/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+300,IndiGo,27/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+301,IndiGo,27/10/2021,Goa,Ahmedabad,12:00,17:40,1 stop via Mumbai,5316.0
+302,IndiGo,27/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5316.0
+303,IndiGo,27/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+304,IndiGo,27/10/2021,Goa,Ahmedabad,18:30,23:25,1 stop via Mumbai,5316.0
+305,Go First,27/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+306,Air India,27/10/2021,Goa,Ahmedabad,07:30,18:10,1 stop via Mumbai,6724.0
+307,Vistara,27/10/2021,Goa,Ahmedabad,14:30,19:40,1 stop via New Delhi,10629.0
+308,Spicejet,28/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+309,Spicejet,28/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5315.0
+310,Spicejet,28/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5315.0
+311,Go First,28/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+312,Go First,28/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+313,Go First,28/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+314,Go First,28/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+315,Go First,28/10/2021,Goa,Ahmedabad,13:40,17:15,1 stop via Mumbai,5315.0
+316,Go First,28/10/2021,Goa,Ahmedabad,11:45,17:15,1 stop via Mumbai,5315.0
+317,Go First,28/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+318,Go First,28/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+319,Go First,28/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+320,IndiGo,28/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+321,IndiGo,28/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5316.0
+322,IndiGo,28/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+323,IndiGo,28/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+324,IndiGo,28/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+325,IndiGo,28/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+326,IndiGo,28/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5316.0
+327,IndiGo,28/10/2021,Goa,Ahmedabad,14:40,21:15,1 stop via Hyderabad,5316.0
+328,IndiGo,28/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+329,Go First,28/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+330,Spicejet,29/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+331,Go First,29/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+332,Go First,29/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+333,Go First,29/10/2021,Goa,Ahmedabad,07:20,12:55,1 stop via Mumbai,5315.0
+334,Go First,29/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+335,Go First,29/10/2021,Goa,Ahmedabad,13:40,17:15,1 stop via Mumbai,5315.0
+336,Go First,29/10/2021,Goa,Ahmedabad,11:45,17:15,1 stop via Mumbai,5315.0
+337,Go First,29/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+338,Go First,29/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+339,Go First,29/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+340,IndiGo,29/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+341,IndiGo,29/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+342,IndiGo,29/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+343,IndiGo,29/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+344,IndiGo,29/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+345,IndiGo,29/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,5316.0
+346,IndiGo,29/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5316.0
+347,IndiGo,29/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+348,Spicejet,29/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5421.0
+349,IndiGo,29/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,5526.0
+350,Spicejet,29/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,5841.0
+351,Go First,29/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+352,Air India,29/10/2021,Goa,Ahmedabad,12:30,18:10,1 stop via Mumbai,6724.0
+353,Vistara,29/10/2021,Goa,Ahmedabad,14:30,19:40,1 stop via New Delhi,10629.0
+354,Spicejet,30/10/2021,Goa,Ahmedabad,07:45,09:45,Non stop,5315.0
+355,Go First,30/10/2021,Goa,Ahmedabad,20:25,22:05,Non stop,5315.0
+356,Go First,30/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+357,Go First,30/10/2021,Goa,Ahmedabad,11:10,17:00,1 stop via New Delhi,5315.0
+358,Go First,30/10/2021,Goa,Ahmedabad,12:10,19:35,1 stop via Bengaluru,5315.0
+359,Go First,30/10/2021,Goa,Ahmedabad,16:15,21:05,1 stop via Mumbai,5315.0
+360,Go First,30/10/2021,Goa,Ahmedabad,14:25,21:05,1 stop via Mumbai,5315.0
+361,Go First,30/10/2021,Goa,Ahmedabad,11:45,21:05,1 stop via Mumbai,5315.0
+362,Go First,30/10/2021,Goa,Ahmedabad,17:25,07:30,1 stop via New Delhi,5315.0
+363,IndiGo,30/10/2021,Goa,Ahmedabad,09:10,10:50,Non stop,5316.0
+364,IndiGo,30/10/2021,Goa,Ahmedabad,21:40,23:20,Non stop,5316.0
+365,IndiGo,30/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+366,IndiGo,30/10/2021,Goa,Ahmedabad,09:15,14:40,1 stop via Mumbai,5316.0
+367,IndiGo,30/10/2021,Goa,Ahmedabad,13:10,17:40,1 stop via Mumbai,5316.0
+368,IndiGo,30/10/2021,Goa,Ahmedabad,12:00,17:40,1 stop via Mumbai,5316.0
+369,IndiGo,30/10/2021,Goa,Ahmedabad,10:55,17:40,1 stop via Mumbai,5316.0
+370,IndiGo,30/10/2021,Goa,Ahmedabad,16:30,21:10,1 stop via Mumbai,5316.0
+371,IndiGo,30/10/2021,Goa,Ahmedabad,19:50,23:25,1 stop via Mumbai,5316.0
+372,Spicejet,30/10/2021,Goa,Ahmedabad,19:40,21:40,Non stop,5631.0
+373,Go First,30/10/2021,Goa,Ahmedabad,15:40,17:10,Non stop,5893.0
+374,IndiGo,30/10/2021,Goa,Ahmedabad,15:25,17:05,Non stop,6156.0
+375,Air India,30/10/2021,Goa,Ahmedabad,07:30,18:10,1 stop via Mumbai,6724.0
+376,Spicejet,30/10/2021,Goa,Ahmedabad,14:50,17:00,Non stop,7521.0
+377,Vistara,30/10/2021,Goa,Ahmedabad,14:30,19:40,1 stop via New Delhi,11834.0
+378,Spicejet,31/10/2021,Goa,Ahmedabad,08:15,11:00,Non stop,5315.0
+379,Spicejet,31/10/2021,Goa,Ahmedabad,21:05,23:00,Non stop,5315.0
+380,Go First,31/10/2021,Goa,Ahmedabad,14:00,20:55,1 stop via Bengaluru,5315.0
+381,IndiGo,31/10/2021,Goa,Ahmedabad,08:05,09:40,Non stop,5316.0
+382,IndiGo,31/10/2021,Goa,Ahmedabad,16:50,18:15,Non stop,5316.0
+383,Spicejet,31/10/2021,Goa,Ahmedabad,13:20,10:05,1 stop via Pune,5735.0
+384,IndiGo,31/10/2021,Goa,Ahmedabad,12:30,17:35,1 stop via Nagpur,6230.0
+385,IndiGo,31/10/2021,Goa,Ahmedabad,07:35,18:05,1 stop via Hyderabad,6230.0
+386,Air India,31/10/2021,Goa,Ahmedabad,07:30,17:50,1 stop via Mumbai,6724.0
+387,Go First,31/10/2021,Goa,Ahmedabad,20:40,22:15,Non stop,7047.0
+388,IndiGo,31/10/2021,Goa,Ahmedabad,09:10,18:35,1 stop via Mumbai,8519.0
+389,IndiGo,31/10/2021,Goa,Ahmedabad,11:50,20:25,1 stop via Mumbai,11144.0
+390,IndiGo,31/10/2021,Goa,Ahmedabad,11:50,18:35,1 stop via Mumbai,11354.0
+391,Air India,31/10/2021,Goa,Ahmedabad,14:10,21:30,1 stop via New Delhi,11841.0
+392,Go First,31/10/2021,Goa,Ahmedabad,18:15,00:05,1 stop via Mumbai,13579.0
+393,IndiGo,31/10/2021,Goa,Ahmedabad,13:10,18:35,1 stop via Mumbai,13979.0
+394,IndiGo,31/10/2021,Goa,Ahmedabad,16:30,21:25,1 stop via Mumbai,13979.0
+395,Vistara,31/10/2021,Goa,Ahmedabad,10:20,19:40,1 stop via New Delhi,17287.0
+396,IndiGo,15/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,7835.0
+397,Air India,15/10/2021,Goa,Tirupati,21:15,09:10,1 stop via Mumbai,8362.0
+398,Air India,15/10/2021,Goa,Tirupati,21:15,13:35,"2 stop via Mumbai,Hyderabad",10567.0
+399,"IndiGo, Air India",15/10/2021,Goa,Tirupati,14:40,09:10,"2 stop via Hyderabad,Mumbai",13654.0
+400,"IndiGo, Air India",15/10/2021,Goa,Tirupati,18:05,09:10,"2 stop via Hyderabad,Mumbai",15859.0
+401,"AirAsia, Air India",15/10/2021,Goa,Tirupati,15:30,09:10,"2 stop via Hyderabad,Mumbai",17851.0
+402,Air India,15/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",17917.0
+403,Air India,15/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",17917.0
+404,"IndiGo, Air India",15/10/2021,Goa,Tirupati,16:00,09:10,"3 stop via Pune,Hyderabad,Mumbai",23472.0
+405,"Go First, Spicejet",16/10/2021,Goa,Tirupati,07:10,14:40,1 stop via Hyderabad,8193.0
+406,"Go First, IndiGo",16/10/2021,Goa,Tirupati,07:10,14:05,1 stop via Hyderabad,8297.0
+407,Air India,16/10/2021,Goa,Tirupati,21:15,09:10,1 stop via Mumbai,9570.0
+408,IndiGo,16/10/2021,Goa,Tirupati,09:00,14:05,1 stop via Hyderabad,9672.0
+409,IndiGo,16/10/2021,Goa,Tirupati,11:15,19:30,1 stop via Hyderabad,11457.0
+410,Spicejet,16/10/2021,Goa,Tirupati,11:25,18:20,1 stop via Hyderabad,11826.0
+411,IndiGo,16/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,11877.0
+412,"IndiGo, Spicejet",16/10/2021,Goa,Tirupati,11:15,18:20,1 stop via Hyderabad,12078.0
+413,"AirAsia, Spicejet",16/10/2021,Goa,Tirupati,13:35,18:20,1 stop via Hyderabad,12916.0
+414,"AirAsia, IndiGo",16/10/2021,Goa,Tirupati,07:35,19:30,"3 stop via Bengaluru,Visakhapatnam,Hyderabad",13233.0
+415,Air India,16/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",27262.0
+416,Air India,16/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",27262.0
+417,"Go First, IndiGo",17/10/2021,Goa,Tirupati,07:10,19:30,1 stop via Hyderabad,10818.0
+418,"Go First, Air India",17/10/2021,Goa,Tirupati,07:10,13:35,1 stop via Hyderabad,11029.0
+419,"Go First, Spicejet",17/10/2021,Goa,Tirupati,07:10,18:20,1 stop via Hyderabad,11029.0
+420,"Go First, IndiGo",17/10/2021,Goa,Tirupati,07:10,14:05,1 stop via Hyderabad,11133.0
+421,"Air India, IndiGo",17/10/2021,Goa,Tirupati,11:05,19:30,"2 stop via Surat,Hyderabad",13234.0
+422,"Air India, Spicejet",17/10/2021,Goa,Tirupati,11:05,18:20,"2 stop via Surat,Hyderabad",13445.0
+423,IndiGo,17/10/2021,Goa,Tirupati,09:00,14:05,1 stop via Hyderabad,13872.0
+424,"IndiGo, Air India",17/10/2021,Goa,Tirupati,09:00,13:35,1 stop via Hyderabad,14389.0
+425,Air India,17/10/2021,Goa,Tirupati,21:00,09:10,1 stop via Mumbai,14557.0
+426,"Air India, Spicejet",17/10/2021,Goa,Tirupati,11:20,18:20,"2 stop via Mysore,Hyderabad",14810.0
+427,IndiGo,17/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,15185.0
+428,IndiGo,17/10/2021,Goa,Tirupati,11:15,19:30,1 stop via Hyderabad,15185.0
+429,"AirAsia, IndiGo",17/10/2021,Goa,Tirupati,13:35,19:30,1 stop via Hyderabad,15858.0
+430,"AirAsia, Spicejet",17/10/2021,Goa,Tirupati,13:35,18:20,1 stop via Hyderabad,16069.0
+431,Air India,17/10/2021,Goa,Tirupati,21:00,13:35,"2 stop via Mumbai,Hyderabad",16762.0
+432,"Vistara, Air India",17/10/2021,Goa,Tirupati,14:30,09:10,"3 stop via New Delhi,Hyderabad,Mumbai",30560.0
+433,IndiGo,18/10/2021,Goa,Tirupati,09:00,14:05,1 stop via Hyderabad,15029.0
+434,IndiGo,18/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,15029.0
+435,IndiGo,18/10/2021,Goa,Tirupati,11:15,19:30,1 stop via Hyderabad,15029.0
+436,Air India,18/10/2021,Goa,Tirupati,21:00,13:35,"2 stop via Mumbai,Hyderabad",16762.0
+437,IndiGo,19/10/2021,Goa,Tirupati,09:00,14:05,1 stop via Hyderabad,11616.0
+438,Spicejet,19/10/2021,Goa,Tirupati,11:25,18:20,1 stop via Hyderabad,11616.0
+439,IndiGo,19/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,12036.0
+440,"Go First, Spicejet",19/10/2021,Goa,Tirupati,07:10,14:40,1 stop via Hyderabad,12287.0
+441,"Go First, Spicejet",19/10/2021,Goa,Tirupati,07:10,18:20,1 stop via Hyderabad,12287.0
+442,"Go First, Air India",19/10/2021,Goa,Tirupati,07:10,13:35,1 stop via Hyderabad,12288.0
+443,"Go First, IndiGo",19/10/2021,Goa,Tirupati,07:10,14:05,1 stop via Hyderabad,12288.0
+444,"IndiGo, Spicejet",19/10/2021,Goa,Tirupati,09:00,14:40,1 stop via Hyderabad,12288.0
+445,"IndiGo, Air India",19/10/2021,Goa,Tirupati,09:00,13:35,1 stop via Hyderabad,12289.0
+446,IndiGo,19/10/2021,Goa,Tirupati,11:15,19:30,1 stop via Hyderabad,12453.0
+447,Spicejet,19/10/2021,Goa,Tirupati,11:25,07:45,1 stop via Hyderabad,12456.0
+448,"AirAsia, Spicejet",19/10/2021,Goa,Tirupati,13:35,18:20,1 stop via Hyderabad,13125.0
+449,"AirAsia, IndiGo",19/10/2021,Goa,Tirupati,13:35,19:30,1 stop via Hyderabad,13126.0
+450,Air India,19/10/2021,Goa,Tirupati,21:00,09:10,1 stop via Mumbai,14557.0
+451,Air India,19/10/2021,Goa,Tirupati,21:00,13:35,"2 stop via Mumbai,Hyderabad",16762.0
+452,IndiGo,20/10/2021,Goa,Tirupati,09:00,14:05,1 stop via Hyderabad,8361.0
+453,IndiGo,20/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,9936.0
+454,Air India,20/10/2021,Goa,Tirupati,21:00,09:10,1 stop via Mumbai,10305.0
+455,IndiGo,20/10/2021,Goa,Tirupati,11:15,19:30,1 stop via Hyderabad,10461.0
+456,Air India,20/10/2021,Goa,Tirupati,21:00,13:35,"2 stop via Mumbai,Hyderabad",12510.0
+457,Air India,20/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",25372.0
+458,Air India,20/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",25792.0
+459,Spicejet,21/10/2021,Goa,Tirupati,08:25,14:40,1 stop via Hyderabad,6066.0
+460,Spicejet,21/10/2021,Goa,Tirupati,08:25,18:20,1 stop via Hyderabad,6066.0
+461,Spicejet,21/10/2021,Goa,Tirupati,11:25,18:20,1 stop via Hyderabad,6276.0
+462,IndiGo,21/10/2021,Goa,Tirupati,09:00,14:05,1 stop via Hyderabad,7626.0
+463,"AirAsia, TruJet",21/10/2021,Goa,Tirupati,07:35,21:05,"2 stop via Bengaluru,Hyderabad",8084.0
+464,"Spicejet, TruJet",21/10/2021,Goa,Tirupati,11:25,21:05,1 stop via Hyderabad,8085.0
+465,"Spicejet, TruJet",21/10/2021,Goa,Tirupati,08:25,21:05,1 stop via Hyderabad,8085.0
+466,"Go First, TruJet",21/10/2021,Goa,Tirupati,07:10,21:05,1 stop via Hyderabad,8085.0
+467,"Spicejet, Air India",21/10/2021,Goa,Tirupati,08:25,13:35,1 stop via Hyderabad,8088.0
+468,"Spicejet, IndiGo",21/10/2021,Goa,Tirupati,08:25,14:05,1 stop via Hyderabad,8088.0
+469,"AirAsia, Spicejet",21/10/2021,Goa,Tirupati,13:35,18:20,1 stop via Hyderabad,8089.0
+470,IndiGo,21/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,8097.0
+471,Spicejet,21/10/2021,Goa,Tirupati,11:25,07:45,1 stop via Hyderabad,8256.0
+472,Spicejet,21/10/2021,Goa,Tirupati,08:25,07:45,1 stop via Hyderabad,8256.0
+473,"IndiGo, Spicejet",21/10/2021,Goa,Tirupati,09:00,14:40,1 stop via Hyderabad,8298.0
+474,"IndiGo, Air India",21/10/2021,Goa,Tirupati,09:00,13:35,1 stop via Hyderabad,8299.0
+475,IndiGo,21/10/2021,Goa,Tirupati,11:15,19:30,1 stop via Hyderabad,9777.0
+476,Air India,21/10/2021,Goa,Tirupati,21:00,13:35,"2 stop via Mumbai,Hyderabad",13035.0
+477,IndiGo,22/10/2021,Goa,Tirupati,09:00,14:05,1 stop via Hyderabad,7625.0
+478,IndiGo,22/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,7625.0
+479,IndiGo,22/10/2021,Goa,Tirupati,11:15,19:30,1 stop via Hyderabad,7625.0
+480,"Go First, Spicejet",22/10/2021,Goa,Tirupati,07:10,18:20,1 stop via Hyderabad,8087.0
+481,"IndiGo, Spicejet",22/10/2021,Goa,Tirupati,11:15,18:20,1 stop via Hyderabad,8088.0
+482,"IndiGo, Spicejet",22/10/2021,Goa,Tirupati,09:00,18:20,1 stop via Hyderabad,8088.0
+483,"AirAsia, Spicejet",22/10/2021,Goa,Tirupati,13:35,18:20,1 stop via Hyderabad,8089.0
+484,"Go First, IndiGo",22/10/2021,Goa,Tirupati,07:10,19:30,1 stop via Hyderabad,8297.0
+485,"AirAsia, IndiGo",22/10/2021,Goa,Tirupati,13:35,19:30,1 stop via Hyderabad,8299.0
+486,"Go First, IndiGo",22/10/2021,Goa,Tirupati,07:10,14:05,1 stop via Hyderabad,8507.0
+487,"Go First, TruJet",22/10/2021,Goa,Tirupati,07:10,18:50,"2 stop via Hyderabad,Belgaum",9473.0
+488,Air India,22/10/2021,Goa,Tirupati,21:00,09:10,1 stop via Mumbai,10095.0
+489,"Go First, Air India",22/10/2021,Goa,Tirupati,07:10,13:35,1 stop via Hyderabad,10188.0
+490,"IndiGo, Air India",22/10/2021,Goa,Tirupati,09:00,13:35,1 stop via Hyderabad,10189.0
+491,Air India,22/10/2021,Goa,Tirupati,21:00,13:35,"2 stop via Mumbai,Hyderabad",11985.0
+492,"Vistara, Air India",22/10/2021,Goa,Tirupati,11:35,09:10,"3 stop via New Delhi,Hyderabad,Mumbai",21550.0
+493,Air India,22/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",28837.0
+494,Air India,22/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",29257.0
+495,Spicejet,23/10/2021,Goa,Tirupati,11:25,18:20,1 stop via Hyderabad,6066.0
+496,IndiGo,23/10/2021,Goa,Tirupati,09:00,14:05,1 stop via Hyderabad,7364.0
+497,IndiGo,23/10/2021,Goa,Tirupati,14:40,19:30,1 stop via Hyderabad,7364.0
+498,IndiGo,23/10/2021,Goa,Tirupati,12:15,19:30,1 stop via Hyderabad,7364.0
+499,IndiGo,23/10/2021,Goa,Tirupati,11:15,19:30,1 stop via Hyderabad,7364.0
+500,Spicejet,23/10/2021,Goa,Tirupati,11:25,07:45,1 stop via Hyderabad,8046.0
+501,"Go First, Spicejet",23/10/2021,Goa,Tirupati,07:10,14:40,1 stop via Hyderabad,8087.0
+502,"Go First, Air India",23/10/2021,Goa,Tirupati,07:10,13:35,1 stop via Hyderabad,8088.0
+503,"IndiGo, Spicejet",23/10/2021,Goa,Tirupati,12:15,18:20,1 stop via Hyderabad,8088.0
+504,"IndiGo, Air India",23/10/2021,Goa,Tirupati,09:00,13:35,1 stop via Hyderabad,8089.0
+505,Air India,23/10/2021,Goa,Tirupati,21:00,09:10,1 stop via Mumbai,8362.0
+506,"AirAsia, Spicejet",23/10/2021,Goa,Tirupati,13:35,18:20,1 stop via Hyderabad,8612.0
+507,Air India,23/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",30832.0
+508,Air India,23/10/2021,Goa,Tirupati,15:25,09:10,"2 stop via New Delhi,Mumbai",30832.0
+509,AirAsia,15/10/2021,Goa,Bengaluru,15:30,01:00,1 stop via Hyderabad,4474.0
+510,Go First,15/10/2021,Goa,Bengaluru,14:25,19:45,1 stop via Mumbai,4475.0
+511,Go First,15/10/2021,Goa,Bengaluru,16:15,00:05,1 stop via Mumbai,4475.0
+512,Go First,15/10/2021,Goa,Bengaluru,17:25,08:20,1 stop via New Delhi,4475.0
+513,AirAsia,15/10/2021,Goa,Bengaluru,18:55,22:25,1 stop via Mumbai,4477.0
+514,Spicejet,15/10/2021,Goa,Bengaluru,15:45,16:55,Non stop,4685.0
+515,Vistara,15/10/2021,Goa,Bengaluru,14:40,16:00,Non stop,4897.0
+516,AirAsia,15/10/2021,Goa,Bengaluru,17:05,18:15,Non stop,5104.0
+517,IndiGo,15/10/2021,Goa,Bengaluru,21:20,22:35,Non stop,5106.0
+518,IndiGo,15/10/2021,Goa,Bengaluru,16:25,17:40,Non stop,5736.0
+519,Air India,15/10/2021,Goa,Bengaluru,21:15,07:55,1 stop via Mumbai,8362.0
+520,"Go First, IndiGo",15/10/2021,Goa,Bengaluru,14:25,19:25,1 stop via Mumbai,8738.0
+521,"IndiGo, Go First",15/10/2021,Goa,Bengaluru,18:30,00:05,1 stop via Mumbai,8738.0
+522,"AirAsia, Go First",15/10/2021,Goa,Bengaluru,18:55,00:05,1 stop via Mumbai,8739.0
+523,"Air India, Vistara",15/10/2021,Goa,Bengaluru,15:20,20:55,1 stop via Mumbai,8846.0
+524,Go First,15/10/2021,Goa,Mumbai,14:25,15:40,Non stop,3635.0
+525,Go First,15/10/2021,Goa,Mumbai,16:15,17:30,Non stop,3635.0
+526,IndiGo,15/10/2021,Goa,Mumbai,16:30,17:45,Non stop,3636.0
+527,IndiGo,15/10/2021,Goa,Mumbai,18:30,19:50,Non stop,3636.0
+528,IndiGo,15/10/2021,Goa,Mumbai,19:50,21:05,Non stop,3636.0
+529,Air India,15/10/2021,Goa,Mumbai,15:20,16:35,Non stop,3637.0
+530,AirAsia,15/10/2021,Goa,Mumbai,18:55,20:15,Non stop,3637.0
+531,Air India,15/10/2021,Goa,Mumbai,21:15,22:25,Non stop,3637.0
+532,AirAsia,15/10/2021,Goa,Mumbai,15:05,22:15,1 stop via New Delhi,6159.0
+533,AirAsia,15/10/2021,Goa,Mumbai,15:05,22:15,1 stop via New Delhi,6159.0
+534,AirAsia,15/10/2021,Goa,Mumbai,17:05,06:20,1 stop via Bengaluru,6159.0
+535,Go First,15/10/2021,Goa,Mumbai,20:25,09:55,1 stop via Ahmedabad,6159.0
+536,Go First,15/10/2021,Goa,Mumbai,17:25,00:50,1 stop via New Delhi,6326.0
+537,Go First,15/10/2021,Goa,Mumbai,15:40,21:05,1 stop via Ahmedabad,9068.0
+538,Vistara,15/10/2021,Goa,Mumbai,14:40,20:15,1 stop via Bengaluru,9622.0
+539,Air India,15/10/2021,Goa,Mumbai,15:25,21:15,1 stop via New Delhi,13192.0
+540,Vistara,15/10/2021,Goa,Mumbai,14:30,23:50,1 stop via New Delhi,13192.0
+541,Vistara,15/10/2021,Goa,Mumbai,20:30,08:00,1 stop via New Delhi,13192.0
+542,Spicejet,16/10/2021,Goa,Mumbai,09:15,10:30,Non stop,3635.0
+543,Go First,16/10/2021,Goa,Mumbai,11:45,13:00,Non stop,3635.0
+544,Spicejet,16/10/2021,Goa,Mumbai,11:50,13:10,Non stop,3635.0
+545,Go First,16/10/2021,Goa,Mumbai,13:40,14:55,Non stop,3635.0
+546,Go First,16/10/2021,Goa,Mumbai,14:25,15:40,Non stop,3635.0
+547,IndiGo,16/10/2021,Goa,Mumbai,09:15,10:25,Non stop,3636.0
+548,Air India,16/10/2021,Goa,Mumbai,07:30,08:45,Non stop,3637.0
+549,AirAsia,16/10/2021,Goa,Mumbai,07:55,09:15,Non stop,3637.0
+550,AirAsia,16/10/2021,Goa,Mumbai,09:55,11:20,Non stop,3637.0
+551,Vistara,16/10/2021,Goa,Mumbai,13:20,14:45,Non stop,3637.0
+552,Air India,16/10/2021,Goa,Mumbai,15:20,16:35,Non stop,3637.0
+553,IndiGo,16/10/2021,Goa,Mumbai,10:55,12:25,Non stop,3741.0
+554,IndiGo,16/10/2021,Goa,Mumbai,12:00,13:15,Non stop,3741.0
+555,IndiGo,16/10/2021,Goa,Mumbai,13:10,14:30,Non stop,3741.0
+556,IndiGo,16/10/2021,Goa,Mumbai,16:30,17:45,Non stop,3741.0
+557,IndiGo,16/10/2021,Goa,Mumbai,18:30,19:50,Non stop,3951.0
+558,IndiGo,16/10/2021,Goa,Mumbai,19:50,21:05,Non stop,3951.0
+559,Vistara,16/10/2021,Goa,Mumbai,20:30,21:45,Non stop,3952.0
+560,Air India,16/10/2021,Goa,Mumbai,21:15,22:25,Non stop,4005.0
+561,Go First,16/10/2021,Goa,Mumbai,16:15,17:30,Non stop,4107.0
+562,AirAsia,16/10/2021,Goa,Mumbai,18:55,20:15,Non stop,5000.0
+563,AirAsia,16/10/2021,Goa,Mumbai,07:35,16:35,1 stop via Bengaluru,6159.0
+564,AirAsia,16/10/2021,Goa,Mumbai,07:35,16:35,1 stop via Bengaluru,6159.0
+565,Go First,16/10/2021,Goa,Mumbai,15:40,21:05,1 stop via Ahmedabad,6159.0
+566,AirAsia,16/10/2021,Goa,Mumbai,15:05,22:15,1 stop via New Delhi,6159.0
+567,Go First,16/10/2021,Goa,Mumbai,20:25,09:55,1 stop via Ahmedabad,6159.0
+568,Go First,16/10/2021,Goa,Mumbai,11:10,20:45,1 stop via New Delhi,6326.0
+569,AirAsia,16/10/2021,Goa,Mumbai,07:35,14:35,1 stop via Bengaluru,7125.0
+570,AirAsia,16/10/2021,Goa,Mumbai,17:05,06:20,1 stop via Bengaluru,9202.0
+571,Go First,16/10/2021,Goa,Mumbai,12:10,22:00,1 stop via Bengaluru,9412.0
+572,Vistara,16/10/2021,Goa,Mumbai,11:35,17:15,1 stop via New Delhi,13192.0
+573,Vistara,16/10/2021,Goa,Mumbai,14:30,20:05,1 stop via New Delhi,13297.0
+574,Vistara,16/10/2021,Goa,Mumbai,20:30,08:00,1 stop via New Delhi,13297.0
+575,Go First,16/10/2021,Goa,Mumbai,17:25,23:35,1 stop via New Delhi,13742.0
+576,Vistara,16/10/2021,Goa,Mumbai,14:40,20:15,1 stop via Bengaluru,16867.0
+577,Air India,16/10/2021,Goa,Mumbai,15:25,21:15,1 stop via New Delhi,22222.0
+578,Vistara,17/10/2021,Goa,Mumbai,15:15,16:30,Non stop,6735.0
+579,Go First,17/10/2021,Goa,Mumbai,11:45,13:00,Non stop,3635.0
+580,Go First,17/10/2021,Goa,Mumbai,14:25,15:40,Non stop,3635.0
+581,Go First,17/10/2021,Goa,Mumbai,13:40,14:55,Non stop,3635.0
+582,Spicejet,17/10/2021,Goa,Mumbai,09:15,10:30,Non stop,3635.0
+583,Spicejet,17/10/2021,Goa,Mumbai,11:50,13:10,Non stop,3635.0
+584,Spicejet,17/10/2021,Goa,Mumbai,09:15,10:30,Non stop,7415.0
+585,AirAsia,17/10/2021,Goa,Mumbai,07:55,09:15,Non stop,7940.0
+586,AirAsia,17/10/2021,Goa,Mumbai,09:55,11:20,Non stop,7940.0
+587,Air India,17/10/2021,Goa,Mumbai,15:20,16:35,Non stop,8782.0
+588,IndiGo,17/10/2021,Goa,Mumbai,09:15,10:25,Non stop,9096.0
+589,Go First,17/10/2021,Goa,Mumbai,07:20,08:35,Non stop,9831.0
+590,IndiGo,17/10/2021,Goa,Mumbai,10:55,12:25,Non stop,9831.0
+591,Spicejet,17/10/2021,Goa,Mumbai,11:25,12:45,Non stop,9831.0
+592,Go First,17/10/2021,Goa,Mumbai,16:15,17:30,Non stop,9831.0
+593,IndiGo,17/10/2021,Goa,Mumbai,16:30,17:45,Non stop,9831.0
+594,IndiGo,17/10/2021,Goa,Mumbai,18:30,19:50,Non stop,9831.0
+595,IndiGo,17/10/2021,Goa,Mumbai,19:50,21:05,Non stop,9831.0
+596,Air India,17/10/2021,Goa,Mumbai,07:30,08:45,Non stop,9832.0
+597,Vistara,17/10/2021,Goa,Mumbai,13:20,14:45,Non stop,9832.0
+598,AirAsia,17/10/2021,Goa,Mumbai,15:05,22:15,1 stop via New Delhi,10934.0
+599,Vistara,17/10/2021,Goa,Mumbai,20:30,21:45,Non stop,12688.0
+600,AirAsia,17/10/2021,Goa,Mumbai,07:35,16:35,1 stop via Bengaluru,13192.0
+601,AirAsia,17/10/2021,Goa,Mumbai,07:35,16:35,1 stop via Bengaluru,13192.0
+602,Air India,17/10/2021,Goa,Mumbai,11:05,23:30,"2 stop via Surat,Hyderabad",13402.0
+603,Go First,17/10/2021,Goa,Mumbai,20:25,09:55,1 stop via Ahmedabad,13898.0
+604,AirAsia,17/10/2021,Goa,Mumbai,13:35,22:10,"2 stop via Hyderabad,Bengaluru",14242.0
+605,AirAsia,17/10/2021,Goa,Mumbai,07:35,14:35,1 stop via Bengaluru,17811.0
+606,Vistara,17/10/2021,Goa,Mumbai,14:30,22:00,1 stop via New Delhi,18232.0
+607,Vistara,17/10/2021,Goa,Mumbai,14:30,20:05,1 stop via New Delhi,20647.0
+608,AirAsia,15/10/2021,Goa,Jaipur,18:55,09:05,1 stop via Mumbai,5524.0
+609,AirAsia,15/10/2021,Goa,Jaipur,18:55,11:20,"3 stop via Mumbai,Bengaluru,Hyderabad",5524.0
+610,Go First,15/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,5526.0
+611,AirAsia,15/10/2021,Goa,Jaipur,17:05,09:05,"2 stop via Bengaluru,Mumbai",5737.0
+612,IndiGo,15/10/2021,Goa,Jaipur,14:40,22:35,1 stop via Hyderabad,6156.0
+613,IndiGo,15/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+614,IndiGo,15/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,6156.0
+615,IndiGo,15/10/2021,Goa,Jaipur,19:50,06:45,1 stop via Mumbai,6156.0
+616,AirAsia,15/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,7133.0
+617,IndiGo,15/10/2021,Goa,Jaipur,15:20,21:25,1 stop via New Delhi,7133.0
+618,IndiGo,15/10/2021,Goa,Jaipur,18:05,22:35,1 stop via Hyderabad,7621.0
+619,"Go First, AirAsia",15/10/2021,Goa,Jaipur,16:15,22:25,1 stop via Mumbai,8739.0
+620,"IndiGo, AirAsia",15/10/2021,Goa,Jaipur,16:30,22:25,1 stop via Mumbai,8740.0
+621,"Air India, AirAsia",15/10/2021,Goa,Jaipur,15:20,22:25,1 stop via Mumbai,8741.0
+622,AirAsia,16/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,5524.0
+623,AirAsia,16/10/2021,Goa,Jaipur,09:55,22:25,1 stop via Mumbai,5524.0
+624,Go First,16/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,5526.0
+625,AirAsia,16/10/2021,Goa,Jaipur,09:55,17:05,1 stop via Mumbai,5737.0
+626,AirAsia,16/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,5737.0
+627,IndiGo,16/10/2021,Goa,Jaipur,09:10,16:55,1 stop via Ahmedabad,6156.0
+628,IndiGo,16/10/2021,Goa,Jaipur,12:00,17:15,1 stop via Mumbai,6156.0
+629,IndiGo,16/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,6156.0
+630,IndiGo,16/10/2021,Goa,Jaipur,09:15,17:15,1 stop via Mumbai,6156.0
+631,IndiGo,16/10/2021,Goa,Jaipur,13:10,20:20,1 stop via Mumbai,6156.0
+632,IndiGo,16/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+633,IndiGo,16/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,6156.0
+634,IndiGo,16/10/2021,Goa,Jaipur,13:25,19:05,1 stop via New Delhi,7133.0
+635,IndiGo,16/10/2021,Goa,Jaipur,12:10,19:05,1 stop via New Delhi,7133.0
+636,IndiGo,16/10/2021,Goa,Jaipur,15:20,21:25,1 stop via New Delhi,7621.0
+637,Go First,16/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,8223.0
+638,Go First,16/10/2021,Goa,Jaipur,11:45,18:00,1 stop via Mumbai,8223.0
+639,"Go First, IndiGo",16/10/2021,Goa,Jaipur,14:25,20:20,1 stop via Mumbai,8738.0
+640,"Spicejet, AirAsia",16/10/2021,Goa,Jaipur,11:50,17:05,1 stop via Mumbai,8739.0
+641,"Go First, AirAsia",16/10/2021,Goa,Jaipur,11:45,17:05,1 stop via Mumbai,8739.0
+642,"Vistara, IndiGo",16/10/2021,Goa,Jaipur,13:20,20:20,1 stop via Mumbai,8740.0
+643,"IndiGo, AirAsia",16/10/2021,Goa,Jaipur,12:00,17:05,1 stop via Mumbai,8845.0
+644,"IndiGo, AirAsia",16/10/2021,Goa,Jaipur,16:30,22:25,1 stop via Mumbai,8845.0
+645,Air India,16/10/2021,Goa,Jaipur,07:30,13:15,1 stop via Mumbai,9727.0
+646,IndiGo,17/10/2021,Goa,Jaipur,21:40,08:40,1 stop via Ahmedabad,8597.0
+647,AirAsia,17/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,5524.0
+648,AirAsia,17/10/2021,Goa,Jaipur,09:55,22:25,1 stop via Mumbai,5524.0
+649,Go First,17/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,5526.0
+650,AirAsia,17/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,5737.0
+651,AirAsia,17/10/2021,Goa,Jaipur,09:55,17:05,1 stop via Mumbai,5737.0
+652,AirAsia,17/10/2021,Goa,Jaipur,09:55,22:25,1 stop via Mumbai,9411.0
+653,AirAsia,17/10/2021,Goa,Jaipur,09:55,17:05,1 stop via Mumbai,10041.0
+654,AirAsia,17/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,10041.0
+655,IndiGo,17/10/2021,Goa,Jaipur,09:00,20:00,1 stop via Hyderabad,10550.0
+656,IndiGo,17/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,10550.0
+657,IndiGo,17/10/2021,Goa,Jaipur,09:25,19:05,1 stop via New Delhi,11527.0
+658,"Vistara, Go First",17/10/2021,Goa,Jaipur,15:15,11:35,"2 stop via Mumbai,Bengaluru",11837.0
+659,"Vistara, AirAsia",17/10/2021,Goa,Jaipur,15:15,22:25,1 stop via Mumbai,11839.0
+660,IndiGo,17/10/2021,Goa,Jaipur,10:55,20:20,1 stop via Mumbai,12015.0
+661,IndiGo,17/10/2021,Goa,Jaipur,14:40,20:00,1 stop via Hyderabad,12503.0
+662,IndiGo,17/10/2021,Goa,Jaipur,18:05,23:00,1 stop via Hyderabad,12503.0
+663,AirAsia,17/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,12981.0
+664,AirAsia,17/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,12981.0
+665,IndiGo,17/10/2021,Goa,Jaipur,11:45,17:15,1 stop via Mumbai,13480.0
+666,IndiGo,17/10/2021,Goa,Jaipur,12:10,19:05,1 stop via New Delhi,13480.0
+667,"Air India, AirAsia",17/10/2021,Goa,Jaipur,15:20,22:25,1 stop via Mumbai,13886.0
+668,IndiGo,17/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,14451.0
+669,"IndiGo, AirAsia",17/10/2021,Goa,Jaipur,16:30,22:25,1 stop via Mumbai,14935.0
+670,"Spicejet, AirAsia",17/10/2021,Goa,Jaipur,11:25,17:05,1 stop via Mumbai,15039.0
+671,IndiGo,18/10/2021,Goa,Jaipur,09:10,16:55,1 stop via Ahmedabad,7621.0
+672,IndiGo,18/10/2021,Goa,Jaipur,12:00,17:15,1 stop via Mumbai,8597.0
+673,IndiGo,18/10/2021,Goa,Jaipur,09:15,17:15,1 stop via Mumbai,8597.0
+674,AirAsia,18/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,9411.0
+675,IndiGo,18/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,9574.0
+676,IndiGo,18/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,10062.0
+677,IndiGo,18/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,10062.0
+678,IndiGo,18/10/2021,Goa,Jaipur,21:40,08:40,1 stop via Ahmedabad,10062.0
+679,IndiGo,18/10/2021,Goa,Jaipur,09:25,16:45,1 stop via New Delhi,11527.0
+680,IndiGo,18/10/2021,Goa,Jaipur,15:20,21:25,1 stop via New Delhi,11527.0
+681,AirAsia,18/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,11931.0
+682,IndiGo,18/10/2021,Goa,Jaipur,12:10,19:05,1 stop via New Delhi,12015.0
+683,IndiGo,18/10/2021,Goa,Jaipur,12:10,17:25,1 stop via Bengaluru,12503.0
+684,IndiGo,18/10/2021,Goa,Jaipur,16:25,22:50,1 stop via Bengaluru,12503.0
+685,IndiGo,18/10/2021,Goa,Jaipur,18:05,23:00,1 stop via Hyderabad,12503.0
+686,Go First,18/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,12633.0
+687,"Spicejet, IndiGo",18/10/2021,Goa,Jaipur,07:45,16:55,1 stop via Ahmedabad,13842.0
+688,Go First,18/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,21922.0
+689,Air India,18/10/2021,Goa,Jaipur,07:30,13:15,1 stop via Mumbai,23692.0
+690,IndiGo,19/10/2021,Goa,Jaipur,19:50,06:45,1 stop via Mumbai,8109.0
+691,AirAsia,19/10/2021,Goa,Jaipur,07:55,17:15,1 stop via Mumbai,8991.0
+692,AirAsia,19/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,9411.0
+693,AirAsia,19/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,10041.0
+694,AirAsia,19/10/2021,Goa,Jaipur,18:55,09:05,1 stop via Mumbai,10041.0
+695,IndiGo,19/10/2021,Goa,Jaipur,21:40,08:40,1 stop via Ahmedabad,10062.0
+696,IndiGo,19/10/2021,Goa,Jaipur,14:40,23:00,1 stop via Hyderabad,10550.0
+697,Go First,19/10/2021,Goa,Jaipur,09:35,18:00,1 stop via Mumbai,10953.0
+698,AirAsia,19/10/2021,Goa,Jaipur,07:35,17:15,"2 stop via Bengaluru,Mumbai",11039.0
+699,"Spicejet, AirAsia",19/10/2021,Goa,Jaipur,08:45,17:15,1 stop via Mumbai,11259.0
+700,"Go First, AirAsia",19/10/2021,Goa,Jaipur,09:35,17:15,1 stop via Mumbai,11469.0
+701,IndiGo,19/10/2021,Goa,Jaipur,13:25,19:05,1 stop via New Delhi,12015.0
+702,IndiGo,19/10/2021,Goa,Jaipur,16:25,22:50,1 stop via Bengaluru,12503.0
+703,IndiGo,19/10/2021,Goa,Jaipur,18:05,23:00,1 stop via Hyderabad,12503.0
+704,Air India,19/10/2021,Goa,Jaipur,07:30,13:15,1 stop via Mumbai,13822.0
+705,Go First,19/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,14419.0
+706,IndiGo,19/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,14451.0
+707,"Vistara, AirAsia",19/10/2021,Goa,Jaipur,09:15,17:15,1 stop via Mumbai,14936.0
+708,Go First,19/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,15290.0
+709,AirAsia,20/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,5524.0
+710,AirAsia,20/10/2021,Goa,Jaipur,18:55,09:05,1 stop via Mumbai,5524.0
+711,Go First,20/10/2021,Goa,Jaipur,07:20,18:00,1 stop via Mumbai,5526.0
+712,AirAsia,20/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,5737.0
+713,IndiGo,20/10/2021,Goa,Jaipur,09:10,16:55,1 stop via Ahmedabad,6156.0
+714,IndiGo,20/10/2021,Goa,Jaipur,12:00,17:15,1 stop via Mumbai,6156.0
+715,IndiGo,20/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,6156.0
+716,IndiGo,20/10/2021,Goa,Jaipur,13:10,20:20,1 stop via Mumbai,6156.0
+717,IndiGo,20/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+718,IndiGo,20/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,6156.0
+719,IndiGo,20/10/2021,Goa,Jaipur,09:30,17:25,1 stop via Bengaluru,6644.0
+720,IndiGo,20/10/2021,Goa,Jaipur,08:20,17:25,1 stop via Bengaluru,6644.0
+721,IndiGo,20/10/2021,Goa,Jaipur,12:10,17:25,1 stop via Bengaluru,7621.0
+722,Go First,20/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,8223.0
+723,IndiGo,20/10/2021,Goa,Jaipur,16:25,22:50,1 stop via Bengaluru,8597.0
+724,Go First,20/10/2021,Goa,Jaipur,11:45,18:00,1 stop via Mumbai,8697.0
+725,"Spicejet, AirAsia",20/10/2021,Goa,Jaipur,09:15,17:05,1 stop via Mumbai,8739.0
+726,"IndiGo, AirAsia",20/10/2021,Goa,Jaipur,10:55,17:05,1 stop via Mumbai,8845.0
+727,"Go First, AirAsia",20/10/2021,Goa,Jaipur,11:45,17:05,1 stop via Mumbai,9211.0
+728,Go First,20/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,9504.0
+729,"Vistara, Go First",20/10/2021,Goa,Jaipur,12:15,18:00,1 stop via Mumbai,10157.0
+730,"Go First, Air India",20/10/2021,Goa,Jaipur,07:20,13:15,1 stop via Mumbai,10523.0
+731,AirAsia,21/10/2021,Goa,Jaipur,09:55,17:05,1 stop via Mumbai,5524.0
+732,AirAsia,21/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,5524.0
+733,AirAsia,21/10/2021,Goa,Jaipur,07:35,17:05,"2 stop via Bengaluru,Mumbai",5524.0
+734,AirAsia,21/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,5524.0
+735,AirAsia,21/10/2021,Goa,Jaipur,18:55,09:05,1 stop via Mumbai,5524.0
+736,AirAsia,21/10/2021,Goa,Jaipur,18:55,11:20,"3 stop via Mumbai,Bengaluru,Hyderabad",5524.0
+737,Go First,21/10/2021,Goa,Jaipur,11:45,18:00,1 stop via Mumbai,5526.0
+738,Go First,21/10/2021,Goa,Jaipur,07:20,18:00,1 stop via Mumbai,5526.0
+739,IndiGo,21/10/2021,Goa,Jaipur,09:10,16:55,1 stop via Ahmedabad,6156.0
+740,IndiGo,21/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,6156.0
+741,IndiGo,21/10/2021,Goa,Jaipur,09:15,17:15,1 stop via Mumbai,6156.0
+742,IndiGo,21/10/2021,Goa,Jaipur,13:10,20:20,1 stop via Mumbai,6156.0
+743,IndiGo,21/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+744,IndiGo,21/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,6156.0
+745,IndiGo,21/10/2021,Goa,Jaipur,12:10,17:25,1 stop via Bengaluru,6644.0
+746,IndiGo,21/10/2021,Goa,Jaipur,16:25,22:50,1 stop via Bengaluru,6644.0
+747,AirAsia,21/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,7133.0
+748,IndiGo,21/10/2021,Goa,Jaipur,18:05,23:00,1 stop via Hyderabad,7133.0
+749,Go First,21/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,8223.0
+750,"Spicejet, AirAsia",21/10/2021,Goa,Jaipur,11:50,17:05,1 stop via Mumbai,8739.0
+751,"Vistara, Go First",21/10/2021,Goa,Jaipur,12:15,18:00,1 stop via Mumbai,8739.0
+752,Go First,21/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,9504.0
+753,Air India,21/10/2021,Goa,Jaipur,07:30,13:15,1 stop via Mumbai,9727.0
+754,AirAsia,22/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,5524.0
+755,AirAsia,22/10/2021,Goa,Jaipur,07:35,17:05,"2 stop via Bengaluru,Mumbai",5524.0
+756,AirAsia,22/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,5524.0
+757,AirAsia,22/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,5524.0
+758,AirAsia,22/10/2021,Goa,Jaipur,18:55,11:20,"3 stop via Mumbai,Bengaluru,Hyderabad",5524.0
+759,Go First,22/10/2021,Goa,Jaipur,11:45,18:00,1 stop via Mumbai,5526.0
+760,Go First,22/10/2021,Goa,Jaipur,07:20,18:00,1 stop via Mumbai,5526.0
+761,IndiGo,22/10/2021,Goa,Jaipur,09:10,16:55,1 stop via Ahmedabad,6156.0
+762,IndiGo,22/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,6156.0
+763,IndiGo,22/10/2021,Goa,Jaipur,09:15,17:15,1 stop via Mumbai,6156.0
+764,IndiGo,22/10/2021,Goa,Jaipur,13:10,20:20,1 stop via Mumbai,6156.0
+765,IndiGo,22/10/2021,Goa,Jaipur,18:05,23:00,1 stop via Hyderabad,6156.0
+766,IndiGo,22/10/2021,Goa,Jaipur,14:40,23:00,1 stop via Hyderabad,6156.0
+767,IndiGo,22/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+768,IndiGo,22/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,6156.0
+769,IndiGo,22/10/2021,Goa,Jaipur,12:10,19:05,1 stop via New Delhi,7133.0
+770,IndiGo,22/10/2021,Goa,Jaipur,12:10,17:25,1 stop via Bengaluru,8109.0
+771,Go First,22/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,8223.0
+772,"Spicejet, AirAsia",22/10/2021,Goa,Jaipur,09:15,17:05,1 stop via Mumbai,8739.0
+773,"Air India, Go First",22/10/2021,Goa,Jaipur,12:30,18:00,1 stop via Mumbai,8739.0
+774,"Vistara, IndiGo",22/10/2021,Goa,Jaipur,13:20,20:20,1 stop via Mumbai,8740.0
+775,Go First,22/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,9504.0
+776,AirAsia,23/10/2021,Goa,Jaipur,09:55,22:25,1 stop via Mumbai,5524.0
+777,AirAsia,23/10/2021,Goa,Jaipur,07:55,22:25,1 stop via Mumbai,5524.0
+778,AirAsia,23/10/2021,Goa,Jaipur,18:55,09:05,1 stop via Mumbai,5524.0
+779,AirAsia,23/10/2021,Goa,Jaipur,18:55,11:20,"3 stop via Mumbai,Bengaluru,Hyderabad",5524.0
+780,AirAsia,23/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,5737.0
+781,IndiGo,23/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+782,IndiGo,23/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,6156.0
+783,IndiGo,23/10/2021,Goa,Jaipur,13:10,23:15,1 stop via Mumbai,6156.0
+784,IndiGo,23/10/2021,Goa,Jaipur,19:50,06:45,1 stop via Mumbai,6156.0
+785,IndiGo,23/10/2021,Goa,Jaipur,21:40,08:40,1 stop via Ahmedabad,6156.0
+786,AirAsia,23/10/2021,Goa,Jaipur,07:35,16:45,1 stop via Bengaluru,7133.0
+787,IndiGo,23/10/2021,Goa,Jaipur,12:00,20:20,1 stop via Mumbai,7133.0
+788,IndiGo,23/10/2021,Goa,Jaipur,09:10,16:55,1 stop via Ahmedabad,7621.0
+789,IndiGo,23/10/2021,Goa,Jaipur,12:00,17:15,1 stop via Mumbai,7621.0
+790,IndiGo,23/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,7621.0
+791,IndiGo,23/10/2021,Goa,Jaipur,09:15,17:15,1 stop via Mumbai,7621.0
+792,IndiGo,23/10/2021,Goa,Jaipur,12:10,19:05,1 stop via New Delhi,7621.0
+793,IndiGo,23/10/2021,Goa,Jaipur,12:10,17:25,1 stop via Bengaluru,8109.0
+794,IndiGo,23/10/2021,Goa,Jaipur,16:25,22:50,1 stop via Bengaluru,8109.0
+795,"Go First, AirAsia",23/10/2021,Goa,Jaipur,16:15,22:25,1 stop via Mumbai,8949.0
+796,Go First,23/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,9504.0
+797,"Vistara, IndiGo",23/10/2021,Goa,Jaipur,13:20,20:20,1 stop via Mumbai,10735.0
+798,Air India,23/10/2021,Goa,Jaipur,07:30,13:15,1 stop via Mumbai,10882.0
+799,"Spicejet, IndiGo",23/10/2021,Goa,Jaipur,11:50,17:15,1 stop via Mumbai,11783.0
+800,AirAsia,24/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,5524.0
+801,IndiGo,24/10/2021,Goa,Jaipur,21:40,08:40,1 stop via Ahmedabad,6156.0
+802,AirAsia,24/10/2021,Goa,Jaipur,07:35,17:05,"2 stop via Bengaluru,Mumbai",6644.0
+803,AirAsia,24/10/2021,Goa,Jaipur,09:55,22:25,1 stop via Mumbai,6644.0
+804,AirAsia,24/10/2021,Goa,Jaipur,09:55,17:05,1 stop via Mumbai,7133.0
+805,IndiGo,24/10/2021,Goa,Jaipur,09:25,19:05,1 stop via New Delhi,7133.0
+806,IndiGo,24/10/2021,Goa,Jaipur,12:15,21:00,1 stop via Kolkata,7133.0
+807,IndiGo,24/10/2021,Goa,Jaipur,08:20,17:25,1 stop via Bengaluru,7621.0
+808,IndiGo,24/10/2021,Goa,Jaipur,09:15,20:20,1 stop via Mumbai,8109.0
+809,Go First,24/10/2021,Goa,Jaipur,07:20,18:00,1 stop via Mumbai,8223.0
+810,IndiGo,24/10/2021,Goa,Jaipur,15:20,21:25,1 stop via New Delhi,8597.0
+811,IndiGo,24/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,8597.0
+812,AirAsia,24/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,8991.0
+813,IndiGo,24/10/2021,Goa,Jaipur,13:25,19:05,1 stop via New Delhi,9086.0
+814,IndiGo,24/10/2021,Goa,Jaipur,12:10,19:05,1 stop via New Delhi,9086.0
+815,IndiGo,24/10/2021,Goa,Jaipur,11:45,17:15,1 stop via Mumbai,9574.0
+816,IndiGo,24/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,9574.0
+817,"Spicejet, AirAsia",24/10/2021,Goa,Jaipur,09:15,17:05,1 stop via Mumbai,9579.0
+818,Air India,24/10/2021,Goa,Jaipur,07:30,13:15,1 stop via Mumbai,10147.0
+819,IndiGo,24/10/2021,Goa,Jaipur,12:10,17:25,1 stop via Bengaluru,11039.0
+820,"Vistara, IndiGo",24/10/2021,Goa,Jaipur,13:20,20:20,1 stop via Mumbai,14935.0
+821,Go First,24/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,17583.0
+822,AirAsia,25/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,5524.0
+823,AirAsia,25/10/2021,Goa,Jaipur,18:55,09:05,1 stop via Mumbai,5524.0
+824,Go First,25/10/2021,Goa,Jaipur,07:20,18:00,1 stop via Mumbai,5526.0
+825,AirAsia,25/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,5737.0
+826,AirAsia,25/10/2021,Goa,Jaipur,18:55,11:20,"3 stop via Mumbai,Bengaluru,Hyderabad",5737.0
+827,IndiGo,25/10/2021,Goa,Jaipur,09:10,16:55,1 stop via Ahmedabad,6156.0
+828,IndiGo,25/10/2021,Goa,Jaipur,12:00,17:15,1 stop via Mumbai,6156.0
+829,IndiGo,25/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,6156.0
+830,IndiGo,25/10/2021,Goa,Jaipur,09:15,17:15,1 stop via Mumbai,6156.0
+831,IndiGo,25/10/2021,Goa,Jaipur,18:05,23:00,1 stop via Hyderabad,6156.0
+832,IndiGo,25/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+833,IndiGo,25/10/2021,Goa,Jaipur,16:25,22:50,1 stop via Bengaluru,6644.0
+834,IndiGo,25/10/2021,Goa,Jaipur,13:25,19:05,1 stop via New Delhi,7133.0
+835,IndiGo,25/10/2021,Goa,Jaipur,12:10,19:05,1 stop via New Delhi,7133.0
+836,IndiGo,25/10/2021,Goa,Jaipur,13:10,20:20,1 stop via Mumbai,7133.0
+837,IndiGo,25/10/2021,Goa,Jaipur,15:20,21:25,1 stop via New Delhi,7133.0
+838,IndiGo,25/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,7621.0
+839,"Go First, AirAsia",25/10/2021,Goa,Jaipur,11:45,17:05,1 stop via Mumbai,8739.0
+840,"Vistara, Go First",25/10/2021,Goa,Jaipur,12:15,18:00,1 stop via Mumbai,9264.0
+841,"Spicejet, AirAsia",25/10/2021,Goa,Jaipur,09:15,17:05,1 stop via Mumbai,9369.0
+842,Go First,25/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,9504.0
+843,Go First,25/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,9589.0
+844,"Air India, AirAsia",25/10/2021,Goa,Jaipur,15:20,22:25,1 stop via Mumbai,10316.0
+845,AirAsia,26/10/2021,Goa,Jaipur,09:55,17:15,1 stop via Mumbai,5524.0
+846,AirAsia,26/10/2021,Goa,Jaipur,07:55,17:15,1 stop via Mumbai,5524.0
+847,AirAsia,26/10/2021,Goa,Jaipur,07:35,17:15,"2 stop via Bengaluru,Mumbai",5524.0
+848,AirAsia,26/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,5524.0
+849,AirAsia,26/10/2021,Goa,Jaipur,18:55,09:05,1 stop via Mumbai,5524.0
+850,AirAsia,26/10/2021,Goa,Jaipur,17:05,09:05,"2 stop via Bengaluru,Mumbai",5524.0
+851,AirAsia,26/10/2021,Goa,Jaipur,18:55,11:20,"3 stop via Mumbai,Bengaluru,Hyderabad",5524.0
+852,Go First,26/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,5526.0
+853,Go First,26/10/2021,Goa,Jaipur,11:45,18:00,1 stop via Mumbai,5526.0
+854,Go First,26/10/2021,Goa,Jaipur,07:20,18:00,1 stop via Mumbai,5526.0
+855,IndiGo,26/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,6156.0
+856,IndiGo,26/10/2021,Goa,Jaipur,13:10,20:20,1 stop via Mumbai,6156.0
+857,IndiGo,26/10/2021,Goa,Jaipur,18:05,23:00,1 stop via Hyderabad,6156.0
+858,IndiGo,26/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+859,IndiGo,26/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,6156.0
+860,AirAsia,26/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,6644.0
+861,IndiGo,26/10/2021,Goa,Jaipur,16:25,22:50,1 stop via Bengaluru,6644.0
+862,IndiGo,26/10/2021,Goa,Jaipur,13:25,19:05,1 stop via New Delhi,7133.0
+863,IndiGo,26/10/2021,Goa,Jaipur,12:10,17:25,1 stop via Bengaluru,7621.0
+864,"Spicejet, IndiGo",26/10/2021,Goa,Jaipur,11:50,17:15,1 stop via Mumbai,8738.0
+865,"Vistara, Go First",26/10/2021,Goa,Jaipur,12:15,18:00,1 stop via Mumbai,8739.0
+866,Air India,26/10/2021,Goa,Jaipur,07:30,13:15,1 stop via Mumbai,9307.0
+867,Go First,26/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,9504.0
+868,AirAsia,27/10/2021,Goa,Jaipur,07:55,17:05,1 stop via Mumbai,5524.0
+869,AirAsia,27/10/2021,Goa,Jaipur,07:35,17:05,"2 stop via Bengaluru,Mumbai",5524.0
+870,AirAsia,27/10/2021,Goa,Jaipur,15:30,20:30,1 stop via Hyderabad,5524.0
+871,AirAsia,27/10/2021,Goa,Jaipur,13:35,20:30,1 stop via Hyderabad,5524.0
+872,Go First,27/10/2021,Goa,Jaipur,13:40,18:00,1 stop via Mumbai,5526.0
+873,Go First,27/10/2021,Goa,Jaipur,11:45,18:00,1 stop via Mumbai,5526.0
+874,Go First,27/10/2021,Goa,Jaipur,07:20,18:00,1 stop via Mumbai,5526.0
+875,AirAsia,27/10/2021,Goa,Jaipur,18:55,11:20,"3 stop via Mumbai,Bengaluru,Hyderabad",5737.0
+876,IndiGo,27/10/2021,Goa,Jaipur,09:10,16:55,1 stop via Ahmedabad,6156.0
+877,IndiGo,27/10/2021,Goa,Jaipur,12:00,17:15,1 stop via Mumbai,6156.0
+878,IndiGo,27/10/2021,Goa,Jaipur,10:55,17:15,1 stop via Mumbai,6156.0
+879,IndiGo,27/10/2021,Goa,Jaipur,13:10,20:20,1 stop via Mumbai,6156.0
+880,IndiGo,27/10/2021,Goa,Jaipur,18:30,23:15,1 stop via Mumbai,6156.0
+881,IndiGo,27/10/2021,Goa,Jaipur,16:30,23:15,1 stop via Mumbai,6156.0
+882,IndiGo,27/10/2021,Goa,Jaipur,12:10,17:25,1 stop via Bengaluru,6644.0
+883,IndiGo,27/10/2021,Goa,Jaipur,16:25,22:50,1 stop via Bengaluru,6644.0
+884,IndiGo,27/10/2021,Goa,Jaipur,18:05,23:00,1 stop via Hyderabad,6644.0
+885,IndiGo,27/10/2021,Goa,Jaipur,13:25,19:05,1 stop via New Delhi,7133.0
+886,IndiGo,27/10/2021,Goa,Jaipur,15:20,21:25,1 stop via New Delhi,7133.0
+887,"Spicejet, AirAsia",27/10/2021,Goa,Jaipur,09:15,17:05,1 stop via Mumbai,8739.0
+888,"Vistara, Go First",27/10/2021,Goa,Jaipur,12:15,18:00,1 stop via Mumbai,8739.0
+889,Air India,27/10/2021,Goa,Jaipur,07:30,13:15,1 stop via Mumbai,9307.0
+890,Go First,27/10/2021,Goa,Jaipur,15:40,19:15,1 stop via Ahmedabad,9504.0
+891,AirAsia,15/10/2021,Goa,Chennai,15:30,20:30,1 stop via Hyderabad,5314.0
+892,Go First,15/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+893,Go First,15/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+894,Go First,15/10/2021,Goa,Chennai,15:40,23:50,1 stop via Ahmedabad,5315.0
+895,IndiGo,15/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,5316.0
+896,IndiGo,15/10/2021,Goa,Chennai,16:30,22:55,1 stop via Mumbai,5316.0
+897,IndiGo,15/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,5316.0
+898,IndiGo,15/10/2021,Goa,Chennai,14:40,21:45,1 stop via Hyderabad,5773.0
+899,IndiGo,15/10/2021,Goa,Chennai,17:55,19:30,Non stop,6261.0
+900,IndiGo,15/10/2021,Goa,Chennai,14:25,20:15,1 stop via Indore,7143.0
+901,IndiGo,15/10/2021,Goa,Chennai,18:05,23:40,1 stop via Hyderabad,7600.0
+902,Spicejet,15/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,7784.0
+903,"Vistara, IndiGo",15/10/2021,Goa,Chennai,14:40,19:35,1 stop via Bengaluru,8395.0
+904,Air India,15/10/2021,Goa,Chennai,21:15,07:15,1 stop via Mumbai,9202.0
+905,AirAsia,16/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+906,AirAsia,16/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5314.0
+907,Go First,16/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+908,Go First,16/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+909,Go First,16/10/2021,Goa,Chennai,15:40,23:50,1 stop via Ahmedabad,5315.0
+910,IndiGo,16/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,5316.0
+911,IndiGo,16/10/2021,Goa,Chennai,12:00,19:25,1 stop via Mumbai,5316.0
+912,IndiGo,16/10/2021,Goa,Chennai,10:55,19:25,1 stop via Mumbai,5316.0
+913,IndiGo,16/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,5316.0
+914,IndiGo,16/10/2021,Goa,Chennai,09:30,19:35,1 stop via Bengaluru,5773.0
+915,IndiGo,16/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,6230.0
+916,Spicejet,16/10/2021,Goa,Chennai,20:05,21:30,Non stop,6365.0
+917,IndiGo,16/10/2021,Goa,Chennai,17:55,19:30,Non stop,6576.0
+918,IndiGo,16/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,6686.0
+919,IndiGo,16/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,7143.0
+920,IndiGo,16/10/2021,Goa,Chennai,12:00,17:30,1 stop via Mumbai,7143.0
+921,IndiGo,16/10/2021,Goa,Chennai,16:30,22:55,1 stop via Mumbai,7143.0
+922,IndiGo,16/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,7600.0
+923,"Go First, AirAsia",16/10/2021,Goa,Chennai,12:10,17:25,1 stop via Bengaluru,7974.0
+924,IndiGo,16/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,8513.0
+925,IndiGo,16/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,8513.0
+926,IndiGo,16/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,8513.0
+927,"Go First, IndiGo",16/10/2021,Goa,Chennai,07:10,11:45,1 stop via Hyderabad,9243.0
+928,IndiGo,16/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,9427.0
+929,IndiGo,16/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,9884.0
+930,"AirAsia, IndiGo",16/10/2021,Goa,Chennai,07:35,11:45,1 stop via Bengaluru,9968.0
+931,"IndiGo, Air India",16/10/2021,Goa,Chennai,08:20,12:50,1 stop via Bengaluru,10810.0
+932,"Vistara, Spicejet",16/10/2021,Goa,Chennai,13:20,21:25,"2 stop via Mumbai,Bengaluru",11895.0
+933,IndiGo,17/10/2021,Goa,Chennai,11:00,21:55,1 stop via Kannur,7295.0
+934,Spicejet,17/10/2021,Goa,Chennai,20:05,21:30,Non stop,6365.0
+935,IndiGo,17/10/2021,Goa,Chennai,17:55,19:30,Non stop,6576.0
+936,AirAsia,17/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,10340.0
+937,IndiGo,17/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,10797.0
+938,IndiGo,17/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,12167.0
+939,IndiGo,17/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,12167.0
+940,IndiGo,17/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,12167.0
+941,"Go First, IndiGo",17/10/2021,Goa,Chennai,07:10,11:45,1 stop via Hyderabad,12814.0
+942,IndiGo,17/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,13994.0
+943,Spicejet,17/10/2021,Goa,Chennai,20:05,21:30,Non stop,14451.0
+944,"Air India, IndiGo",17/10/2021,Goa,Chennai,11:05,23:55,"2 stop via Surat,Hyderabad",14600.0
+945,IndiGo,17/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,15134.0
+946,IndiGo,17/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,15134.0
+947,"AirAsia, IndiGo",17/10/2021,Goa,Chennai,07:35,11:45,1 stop via Bengaluru,15639.0
+948,"IndiGo, AirAsia",17/10/2021,Goa,Chennai,13:00,17:25,1 stop via Bengaluru,15640.0
+949,"IndiGo, Spicejet",17/10/2021,Goa,Chennai,16:25,21:25,1 stop via Bengaluru,15954.0
+950,IndiGo,17/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,16551.0
+951,IndiGo,17/10/2021,Goa,Chennai,18:05,23:55,1 stop via Hyderabad,16551.0
+952,IndiGo,17/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,16919.0
+953,IndiGo,17/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,19754.0
+954,"AirAsia, IndiGo",17/10/2021,Goa,Chennai,15:30,20:25,1 stop via Hyderabad,20164.0
+955,Vistara,17/10/2021,Goa,Chennai,14:30,22:45,1 stop via New Delhi,20647.0
+956,IndiGo,18/10/2021,Goa,Chennai,12:00,19:25,1 stop via Mumbai,8513.0
+957,Spicejet,18/10/2021,Goa,Chennai,20:05,21:30,Non stop,6681.0
+958,IndiGo,18/10/2021,Goa,Chennai,11:00,21:55,1 stop via Kannur,8610.0
+959,IndiGo,18/10/2021,Goa,Chennai,09:15,17:30,1 stop via Mumbai,8970.0
+960,IndiGo,18/10/2021,Goa,Chennai,10:55,17:30,1 stop via Mumbai,9427.0
+961,IndiGo,18/10/2021,Goa,Chennai,12:00,17:30,1 stop via Mumbai,9884.0
+962,IndiGo,18/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,10797.0
+963,IndiGo,18/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,11254.0
+964,IndiGo,18/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,12167.0
+965,IndiGo,18/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,12167.0
+966,IndiGo,18/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,12167.0
+967,IndiGo,18/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,12167.0
+968,IndiGo,18/10/2021,Goa,Chennai,16:25,21:05,1 stop via Bengaluru,12167.0
+969,IndiGo,18/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,12167.0
+970,IndiGo,18/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,12167.0
+971,IndiGo,18/10/2021,Goa,Chennai,18:05,23:55,1 stop via Hyderabad,12167.0
+972,IndiGo,18/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,12624.0
+973,Spicejet,18/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,12982.0
+974,AirAsia,18/10/2021,Goa,Chennai,15:30,20:30,1 stop via Hyderabad,13080.0
+975,AirAsia,18/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,13080.0
+976,Go First,18/10/2021,Goa,Chennai,13:40,23:15,1 stop via Mumbai,13473.0
+977,Vistara,18/10/2021,Goa,Chennai,12:15,20:25,1 stop via Mumbai,13875.0
+978,IndiGo,18/10/2021,Goa,Chennai,17:55,19:30,Non stop,14451.0
+979,IndiGo,18/10/2021,Goa,Chennai,14:25,20:15,1 stop via Indore,14451.0
+980,Air India,18/10/2021,Goa,Chennai,21:00,07:15,1 stop via Mumbai,15397.0
+981,IndiGo,19/10/2021,Goa,Chennai,11:00,21:55,1 stop via Kannur,6570.0
+982,Spicejet,19/10/2021,Goa,Chennai,20:05,21:30,Non stop,6681.0
+983,AirAsia,19/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,8971.0
+984,AirAsia,19/10/2021,Goa,Chennai,15:30,20:30,1 stop via Hyderabad,8971.0
+985,IndiGo,19/10/2021,Goa,Chennai,17:55,19:30,Non stop,8991.0
+986,AirAsia,19/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,9580.0
+987,IndiGo,19/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,9884.0
+988,IndiGo,19/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,10304.0
+989,IndiGo,19/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,10304.0
+990,IndiGo,19/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,10340.0
+991,IndiGo,19/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,10797.0
+992,IndiGo,19/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,11144.0
+993,IndiGo,19/10/2021,Goa,Chennai,15:25,22:50,1 stop via Ahmedabad,11254.0
+994,IndiGo,19/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,11879.0
+995,IndiGo,19/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,12167.0
+996,IndiGo,19/10/2021,Goa,Chennai,18:05,23:55,1 stop via Hyderabad,12167.0
+997,IndiGo,19/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,12624.0
+998,IndiGo,19/10/2021,Goa,Chennai,16:25,21:05,1 stop via Bengaluru,13769.0
+999,Go First,19/10/2021,Goa,Chennai,17:05,23:15,1 stop via Mumbai,15259.0
+1000,Air India,19/10/2021,Goa,Chennai,21:00,07:15,1 stop via Mumbai,15397.0
+1001,Vistara,19/10/2021,Goa,Chennai,09:15,20:25,1 stop via Mumbai,15502.0
+1002,IndiGo,19/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,15554.0
+1003,IndiGo,19/10/2021,Goa,Chennai,16:55,22:55,1 stop via Mumbai,15554.0
+1004,IndiGo,20/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,5316.0
+1005,IndiGo,20/10/2021,Goa,Chennai,10:55,17:30,1 stop via Mumbai,5316.0
+1006,IndiGo,20/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,5773.0
+1007,IndiGo,20/10/2021,Goa,Chennai,12:00,17:30,1 stop via Mumbai,5773.0
+1008,IndiGo,20/10/2021,Goa,Chennai,09:15,17:30,1 stop via Mumbai,5773.0
+1009,AirAsia,20/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,6229.0
+1010,AirAsia,20/10/2021,Goa,Chennai,15:30,20:30,1 stop via Hyderabad,6229.0
+1011,IndiGo,20/10/2021,Goa,Chennai,11:00,21:55,1 stop via Kannur,6456.0
+1012,IndiGo,20/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,6686.0
+1013,IndiGo,20/10/2021,Goa,Chennai,17:55,19:30,Non stop,7416.0
+1014,IndiGo,20/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,7600.0
+1015,AirAsia,20/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,8024.0
+1016,IndiGo,20/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,8057.0
+1017,IndiGo,20/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,8513.0
+1018,IndiGo,20/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,8513.0
+1019,IndiGo,20/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,8970.0
+1020,IndiGo,20/10/2021,Goa,Chennai,14:25,20:15,1 stop via Indore,8970.0
+1021,Go First,20/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,9273.0
+1022,IndiGo,20/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,9427.0
+1023,IndiGo,20/10/2021,Goa,Chennai,16:25,21:05,1 stop via Bengaluru,9427.0
+1024,IndiGo,20/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,9884.0
+1025,IndiGo,20/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,9884.0
+1026,Vistara,20/10/2021,Goa,Chennai,13:20,20:25,1 stop via Mumbai,9937.0
+1027,Spicejet,20/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,10462.0
+1028,Air India,20/10/2021,Goa,Chennai,21:00,07:15,1 stop via Mumbai,11145.0
+1029,AirAsia,21/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1030,AirAsia,21/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5314.0
+1031,Spicejet,21/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,5315.0
+1032,Go First,21/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+1033,Go First,21/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+1034,Go First,21/10/2021,Goa,Chennai,11:45,23:15,1 stop via Mumbai,5315.0
+1035,IndiGo,21/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,5316.0
+1036,IndiGo,21/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,5316.0
+1037,IndiGo,21/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,5316.0
+1038,IndiGo,21/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,5316.0
+1039,IndiGo,21/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,5316.0
+1040,IndiGo,21/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,5316.0
+1041,IndiGo,21/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,5316.0
+1042,IndiGo,21/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,5316.0
+1043,IndiGo,21/10/2021,Goa,Chennai,18:05,23:55,1 stop via Hyderabad,5316.0
+1044,IndiGo,21/10/2021,Goa,Chennai,09:15,17:30,1 stop via Mumbai,5773.0
+1045,IndiGo,21/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,5773.0
+1046,Spicejet,21/10/2021,Goa,Chennai,20:05,21:30,Non stop,6051.0
+1047,IndiGo,21/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,6230.0
+1048,IndiGo,21/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,6686.0
+1049,IndiGo,21/10/2021,Goa,Chennai,17:55,19:30,Non stop,6891.0
+1050,Vistara,21/10/2021,Goa,Chennai,13:20,20:25,1 stop via Mumbai,8800.0
+1051,Air India,21/10/2021,Goa,Chennai,21:00,07:15,1 stop via Mumbai,9202.0
+1052,IndiGo,21/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,9359.0
+1053,AirAsia,22/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1054,AirAsia,22/10/2021,Goa,Chennai,15:30,20:30,1 stop via Hyderabad,5314.0
+1055,AirAsia,22/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5314.0
+1056,Spicejet,22/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,5315.0
+1057,Go First,22/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+1058,Go First,22/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+1059,Go First,22/10/2021,Goa,Chennai,11:45,23:15,1 stop via Mumbai,5315.0
+1060,IndiGo,22/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,5316.0
+1061,IndiGo,22/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,5316.0
+1062,IndiGo,22/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,5316.0
+1063,IndiGo,22/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,5316.0
+1064,IndiGo,22/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,5316.0
+1065,IndiGo,22/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,5316.0
+1066,IndiGo,22/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,5316.0
+1067,IndiGo,22/10/2021,Goa,Chennai,16:25,21:05,1 stop via Bengaluru,5316.0
+1068,IndiGo,22/10/2021,Goa,Chennai,18:05,23:55,1 stop via Hyderabad,5316.0
+1069,IndiGo,22/10/2021,Goa,Chennai,17:55,19:30,Non stop,5631.0
+1070,IndiGo,22/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,5773.0
+1071,IndiGo,22/10/2021,Goa,Chennai,10:55,17:30,1 stop via Mumbai,5773.0
+1072,IndiGo,22/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,5773.0
+1073,IndiGo,22/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,6230.0
+1074,Vistara,22/10/2021,Goa,Chennai,13:20,20:25,1 stop via Mumbai,8800.0
+1075,Air India,22/10/2021,Goa,Chennai,07:30,16:15,"3 stop via Mumbai,Mangalore,Coimbatore",11407.0
+1076,AirAsia,23/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1077,AirAsia,23/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5314.0
+1078,Spicejet,23/10/2021,Goa,Chennai,20:05,21:30,Non stop,5315.0
+1079,Go First,23/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+1080,Go First,23/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+1081,Go First,23/10/2021,Goa,Chennai,13:40,23:15,1 stop via Mumbai,5315.0
+1082,IndiGo,23/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,5316.0
+1083,IndiGo,23/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,5316.0
+1084,IndiGo,23/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,5316.0
+1085,IndiGo,23/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,5316.0
+1086,IndiGo,23/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,5316.0
+1087,IndiGo,23/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,5316.0
+1088,IndiGo,23/10/2021,Goa,Chennai,12:15,18:50,1 stop via Hyderabad,5316.0
+1089,IndiGo,23/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,5316.0
+1090,IndiGo,23/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,5316.0
+1091,IndiGo,23/10/2021,Goa,Chennai,17:55,19:30,Non stop,5631.0
+1092,IndiGo,23/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,5773.0
+1093,IndiGo,23/10/2021,Goa,Chennai,12:15,17:55,1 stop via Hyderabad,6686.0
+1094,IndiGo,23/10/2021,Goa,Chennai,15:25,22:50,1 stop via Ahmedabad,6686.0
+1095,IndiGo,23/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,7143.0
+1096,AirAsia,24/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1097,IndiGo,24/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,5316.0
+1098,IndiGo,24/10/2021,Goa,Chennai,11:00,21:55,1 stop via Kannur,6456.0
+1099,IndiGo,24/10/2021,Goa,Chennai,12:15,21:25,1 stop via Kolkata,8057.0
+1100,IndiGo,24/10/2021,Goa,Chennai,09:15,19:25,1 stop via Mumbai,8513.0
+1101,IndiGo,24/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,8513.0
+1102,"AirAsia, IndiGo",24/10/2021,Goa,Chennai,07:35,11:45,1 stop via Bengaluru,8602.0
+1103,IndiGo,24/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,8970.0
+1104,IndiGo,24/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,8970.0
+1105,IndiGo,24/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,9427.0
+1106,IndiGo,24/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,9427.0
+1107,IndiGo,24/10/2021,Goa,Chennai,11:45,19:25,1 stop via Mumbai,9427.0
+1108,IndiGo,24/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,9884.0
+1109,IndiGo,24/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,10094.0
+1110,IndiGo,24/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,10340.0
+1111,IndiGo,24/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,11254.0
+1112,Air India,24/10/2021,Goa,Chennai,07:30,16:15,"3 stop via Mumbai,Mangalore,Coimbatore",11407.0
+1113,IndiGo,24/10/2021,Goa,Chennai,18:05,23:55,1 stop via Hyderabad,11711.0
+1114,IndiGo,25/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,5316.0
+1115,IndiGo,25/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,5316.0
+1116,AirAsia,25/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5631.0
+1117,AirAsia,25/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5631.0
+1118,IndiGo,25/10/2021,Goa,Chennai,12:00,19:25,1 stop via Mumbai,5773.0
+1119,IndiGo,25/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,5773.0
+1120,IndiGo,25/10/2021,Goa,Chennai,16:25,21:05,1 stop via Bengaluru,6230.0
+1121,IndiGo,25/10/2021,Goa,Chennai,18:05,23:55,1 stop via Hyderabad,6230.0
+1122,IndiGo,25/10/2021,Goa,Chennai,11:00,21:55,1 stop via Kannur,6456.0
+1123,IndiGo,25/10/2021,Goa,Chennai,10:55,19:25,1 stop via Mumbai,6686.0
+1124,IndiGo,25/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,7143.0
+1125,IndiGo,25/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,7600.0
+1126,"AirAsia, Spicejet",25/10/2021,Goa,Chennai,13:35,21:25,"2 stop via Hyderabad,Bengaluru",8498.0
+1127,"Go First, AirAsia",25/10/2021,Goa,Chennai,12:10,17:25,1 stop via Bengaluru,8656.0
+1128,IndiGo,25/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,8970.0
+1129,IndiGo,25/10/2021,Goa,Chennai,10:55,17:30,1 stop via Mumbai,9201.0
+1130,"AirAsia, IndiGo",25/10/2021,Goa,Chennai,07:35,11:40,1 stop via Bengaluru,9232.0
+1131,IndiGo,25/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,9427.0
+1132,IndiGo,25/10/2021,Goa,Chennai,12:00,17:30,1 stop via Mumbai,9621.0
+1133,IndiGo,25/10/2021,Goa,Chennai,14:25,20:15,1 stop via Indore,9884.0
+1134,"Vistara, IndiGo",25/10/2021,Goa,Chennai,14:40,19:35,1 stop via Bengaluru,10233.0
+1135,IndiGo,25/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,10797.0
+1136,Go First,26/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+1137,Go First,26/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+1138,Go First,26/10/2021,Goa,Chennai,13:40,23:15,1 stop via Mumbai,5315.0
+1139,Go First,26/10/2021,Goa,Chennai,11:45,23:15,1 stop via Mumbai,5315.0
+1140,IndiGo,26/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,5316.0
+1141,IndiGo,26/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,5316.0
+1142,IndiGo,26/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,5316.0
+1143,IndiGo,26/10/2021,Goa,Chennai,10:55,17:30,1 stop via Mumbai,5316.0
+1144,IndiGo,26/10/2021,Goa,Chennai,09:15,17:30,1 stop via Mumbai,5316.0
+1145,IndiGo,26/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,5316.0
+1146,IndiGo,26/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,5316.0
+1147,IndiGo,26/10/2021,Goa,Chennai,16:25,21:05,1 stop via Bengaluru,5316.0
+1148,IndiGo,26/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,5316.0
+1149,IndiGo,26/10/2021,Goa,Chennai,18:05,23:55,1 stop via Hyderabad,5316.0
+1150,AirAsia,26/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5631.0
+1151,IndiGo,26/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,5773.0
+1152,IndiGo,26/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,5773.0
+1153,IndiGo,26/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,5773.0
+1154,Spicejet,26/10/2021,Goa,Chennai,20:05,21:30,Non stop,6365.0
+1155,IndiGo,26/10/2021,Goa,Chennai,17:55,19:30,Non stop,7416.0
+1156,IndiGo,26/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,8057.0
+1157,Vistara,26/10/2021,Goa,Chennai,13:20,20:25,1 stop via Mumbai,8665.0
+1158,Air India,26/10/2021,Goa,Chennai,21:00,07:15,1 stop via Mumbai,9570.0
+1159,AirAsia,27/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1160,AirAsia,27/10/2021,Goa,Chennai,15:30,20:30,1 stop via Hyderabad,5314.0
+1161,AirAsia,27/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5314.0
+1162,Spicejet,27/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,5315.0
+1163,Go First,27/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+1164,Go First,27/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+1165,Go First,27/10/2021,Goa,Chennai,13:40,23:15,1 stop via Mumbai,5315.0
+1166,Go First,27/10/2021,Goa,Chennai,11:45,23:15,1 stop via Mumbai,5315.0
+1167,IndiGo,27/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,5316.0
+1168,IndiGo,27/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,5316.0
+1169,IndiGo,27/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,5316.0
+1170,IndiGo,27/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,5316.0
+1171,IndiGo,27/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,5316.0
+1172,IndiGo,27/10/2021,Goa,Chennai,12:00,17:30,1 stop via Mumbai,5316.0
+1173,IndiGo,27/10/2021,Goa,Chennai,10:55,17:30,1 stop via Mumbai,5316.0
+1174,IndiGo,27/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,5316.0
+1175,IndiGo,27/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,5316.0
+1176,IndiGo,27/10/2021,Goa,Chennai,16:25,21:05,1 stop via Bengaluru,5316.0
+1177,IndiGo,27/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,5773.0
+1178,IndiGo,27/10/2021,Goa,Chennai,17:55,19:30,Non stop,5946.0
+1179,IndiGo,27/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,6230.0
+1180,Vistara,27/10/2021,Goa,Chennai,13:20,20:25,1 stop via Mumbai,8665.0
+1181,Air India,27/10/2021,Goa,Chennai,21:00,07:15,1 stop via Mumbai,9202.0
+1182,AirAsia,28/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1183,AirAsia,28/10/2021,Goa,Chennai,15:30,20:30,1 stop via Hyderabad,5314.0
+1184,AirAsia,28/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5314.0
+1185,Spicejet,28/10/2021,Goa,Chennai,20:05,21:30,Non stop,5315.0
+1186,Spicejet,28/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,5315.0
+1187,Go First,28/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+1188,Go First,28/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+1189,Go First,28/10/2021,Goa,Chennai,13:40,23:15,1 stop via Mumbai,5315.0
+1190,Go First,28/10/2021,Goa,Chennai,11:45,23:15,1 stop via Mumbai,5315.0
+1191,IndiGo,28/10/2021,Goa,Chennai,17:55,19:30,Non stop,5316.0
+1192,IndiGo,28/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,5316.0
+1193,IndiGo,28/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,5316.0
+1194,IndiGo,28/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,5316.0
+1195,IndiGo,28/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,5316.0
+1196,IndiGo,28/10/2021,Goa,Chennai,10:55,17:30,1 stop via Mumbai,5316.0
+1197,IndiGo,28/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,5316.0
+1198,IndiGo,28/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,5316.0
+1199,IndiGo,28/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,5316.0
+1200,IndiGo,28/10/2021,Goa,Chennai,16:25,21:25,1 stop via Bengaluru,5316.0
+1201,IndiGo,28/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,5316.0
+1202,AirAsia,29/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1203,AirAsia,29/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,5314.0
+1204,Spicejet,29/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,5315.0
+1205,Go First,29/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+1206,Go First,29/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+1207,Go First,29/10/2021,Goa,Chennai,13:40,23:15,1 stop via Mumbai,5315.0
+1208,Go First,29/10/2021,Goa,Chennai,11:45,23:15,1 stop via Mumbai,5315.0
+1209,IndiGo,29/10/2021,Goa,Chennai,17:55,19:30,Non stop,5316.0
+1210,IndiGo,29/10/2021,Goa,Chennai,11:15,15:20,1 stop via Hyderabad,5316.0
+1211,IndiGo,29/10/2021,Goa,Chennai,09:00,15:20,1 stop via Hyderabad,5316.0
+1212,IndiGo,29/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,5316.0
+1213,IndiGo,29/10/2021,Goa,Chennai,09:30,16:10,1 stop via Bengaluru,5316.0
+1214,IndiGo,29/10/2021,Goa,Chennai,14:40,18:50,1 stop via Hyderabad,5316.0
+1215,IndiGo,29/10/2021,Goa,Chennai,16:25,21:05,1 stop via Bengaluru,5316.0
+1216,IndiGo,29/10/2021,Goa,Chennai,09:15,15:05,1 stop via Mumbai,5773.0
+1217,IndiGo,29/10/2021,Goa,Chennai,10:55,17:30,1 stop via Mumbai,5773.0
+1218,IndiGo,29/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,5773.0
+1219,IndiGo,29/10/2021,Goa,Chennai,16:30,22:55,1 stop via Mumbai,5773.0
+1220,AirAsia,29/10/2021,Goa,Chennai,15:30,20:30,1 stop via Hyderabad,7143.0
+1221,Air India,29/10/2021,Goa,Chennai,21:00,07:15,1 stop via Mumbai,10462.0
+1222,Vistara,29/10/2021,Goa,Chennai,13:20,20:25,1 stop via Mumbai,12772.0
+1223,AirAsia,30/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1224,AirAsia,30/10/2021,Goa,Chennai,18:55,08:30,"2 stop via Mumbai,Bengaluru",5314.0
+1225,Spicejet,30/10/2021,Goa,Chennai,20:05,21:30,Non stop,5315.0
+1226,Go First,30/10/2021,Goa,Chennai,16:15,23:15,1 stop via Mumbai,5315.0
+1227,Go First,30/10/2021,Goa,Chennai,14:25,23:15,1 stop via Mumbai,5315.0
+1228,Go First,30/10/2021,Goa,Chennai,11:45,23:15,1 stop via Mumbai,5315.0
+1229,IndiGo,30/10/2021,Goa,Chennai,12:10,16:10,1 stop via Bengaluru,5316.0
+1230,IndiGo,30/10/2021,Goa,Chennai,08:20,16:10,1 stop via Bengaluru,5316.0
+1231,IndiGo,30/10/2021,Goa,Chennai,09:00,18:50,1 stop via Hyderabad,5316.0
+1232,IndiGo,30/10/2021,Goa,Chennai,13:00,19:35,1 stop via Bengaluru,5316.0
+1233,IndiGo,30/10/2021,Goa,Chennai,16:25,23:00,1 stop via Bengaluru,5316.0
+1234,IndiGo,30/10/2021,Goa,Chennai,17:55,19:30,Non stop,5631.0
+1235,IndiGo,30/10/2021,Goa,Chennai,13:10,19:25,1 stop via Mumbai,5773.0
+1236,IndiGo,30/10/2021,Goa,Chennai,12:00,19:25,1 stop via Mumbai,5773.0
+1237,IndiGo,30/10/2021,Goa,Chennai,10:55,19:25,1 stop via Mumbai,5773.0
+1238,IndiGo,30/10/2021,Goa,Chennai,16:30,22:55,1 stop via Mumbai,5773.0
+1239,AirAsia,30/10/2021,Goa,Chennai,13:35,20:30,1 stop via Hyderabad,7143.0
+1240,Spicejet,30/10/2021,Goa,Chennai,15:45,21:25,1 stop via Bengaluru,8362.0
+1241,Air India,30/10/2021,Goa,Chennai,21:00,07:20,1 stop via Mumbai,8546.0
+1242,IndiGo,30/10/2021,Goa,Chennai,12:00,17:30,1 stop via Mumbai,9149.0
+1243,IndiGo,30/10/2021,Goa,Chennai,18:30,22:55,1 stop via Mumbai,9201.0
+1244,IndiGo,30/10/2021,Goa,Chennai,20:05,23:55,1 stop via Hyderabad,9569.0
+1245,Vistara,30/10/2021,Goa,Chennai,20:30,09:05,1 stop via Mumbai,9647.0
+1246,AirAsia,31/10/2021,Goa,Chennai,07:35,17:25,1 stop via Bengaluru,5314.0
+1247,Go First,31/10/2021,Goa,Chennai,09:45,11:30,Non stop,5315.0
+1248,Spicejet,31/10/2021,Goa,Chennai,07:30,07:00,1 stop via Bengaluru,5315.0
+1249,IndiGo,31/10/2021,Goa,Chennai,08:05,12:00,1 stop via Bengaluru,5316.0
+1250,IndiGo,31/10/2021,Goa,Chennai,12:00,17:00,1 stop via Bengaluru,5316.0
+1251,IndiGo,31/10/2021,Goa,Chennai,10:55,17:00,1 stop via Bengaluru,5316.0
+1252,Spicejet,31/10/2021,Goa,Chennai,17:05,18:25,Non stop,5631.0
+1253,IndiGo,31/10/2021,Goa,Chennai,12:00,15:55,1 stop via Bengaluru,5773.0
+1254,IndiGo,31/10/2021,Goa,Chennai,10:55,15:55,1 stop via Bengaluru,5773.0
+1255,IndiGo,31/10/2021,Goa,Chennai,09:10,18:15,1 stop via Mumbai,5773.0
+1256,IndiGo,31/10/2021,Goa,Chennai,07:35,11:15,1 stop via Hyderabad,6230.0
+1257,IndiGo,31/10/2021,Goa,Chennai,12:30,19:20,1 stop via Nagpur,6230.0
+1258,IndiGo,31/10/2021,Goa,Chennai,08:05,13:20,1 stop via Ahmedabad,7143.0
+1259,AirAsia,31/10/2021,Goa,Chennai,07:35,16:30,1 stop via Bengaluru,7143.0
+1260,IndiGo,31/10/2021,Goa,Chennai,16:50,23:20,1 stop via Ahmedabad,7143.0
+1261,IndiGo,31/10/2021,Goa,Chennai,18:55,23:45,1 stop via Bengaluru,9306.0
+1262,Vistara,31/10/2021,Goa,Chennai,08:40,19:55,1 stop via Mumbai,9647.0
+1263,IndiGo,31/10/2021,Goa,Chennai,09:10,17:10,1 stop via Mumbai,9831.0
+1264,IndiGo,31/10/2021,Goa,Chennai,07:25,12:30,1 stop via Mumbai,9989.0
+1265,IndiGo,31/10/2021,Goa,Chennai,14:35,19:15,1 stop via Bengaluru,11196.0
+1266,IndiGo,31/10/2021,Goa,Chennai,11:50,17:10,1 stop via Mumbai,12141.0
+1267,Air India,31/10/2021,Goa,Chennai,07:30,16:15,"3 stop via Mumbai,Mangalore,Coimbatore",13697.0
+1268,IndiGo,31/10/2021,Goa,Chennai,14:30,18:35,1 stop via Hyderabad,13904.0
+1269,IndiGo,31/10/2021,Goa,Chennai,15:25,19:25,1 stop via Pune,14084.0
+1270,IndiGo,31/10/2021,Goa,Chennai,20:10,21:40,Non stop,14451.0
+1271,AirAsia,15/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,7622.0
+1272,AirAsia,15/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1273,AirAsia,15/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1274,Go First,15/10/2021,Goa,Kolkata,17:25,23:05,1 stop via New Delhi,7622.0
+1275,AirAsia,15/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1276,Go First,15/10/2021,Goa,Kolkata,16:15,23:40,1 stop via Mumbai,7622.0
+1277,AirAsia,15/10/2021,Goa,Kolkata,15:30,00:55,1 stop via Hyderabad,7622.0
+1278,AirAsia,15/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1279,Spicejet,15/10/2021,Goa,Kolkata,16:30,19:35,Non stop,7625.0
+1280,IndiGo,15/10/2021,Goa,Kolkata,15:20,22:00,1 stop via New Delhi,7626.0
+1281,IndiGo,15/10/2021,Goa,Kolkata,16:30,22:20,1 stop via Mumbai,7626.0
+1282,IndiGo,15/10/2021,Goa,Kolkata,17:55,23:20,1 stop via Chennai,7626.0
+1283,IndiGo,15/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,7626.0
+1284,Go First,15/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",7958.0
+1285,IndiGo,15/10/2021,Goa,Kolkata,16:00,20:55,1 stop via Pune,9563.0
+1286,IndiGo,15/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,10209.0
+1287,Air India,15/10/2021,Goa,Kolkata,15:25,22:20,1 stop via New Delhi,14032.0
+1288,IndiGo,15/10/2021,Goa,Kolkata,14:50,17:55,Non stop,17181.0
+1289,AirAsia,16/10/2021,Goa,Kolkata,13:35,20:50,1 stop via Hyderabad,7622.0
+1290,AirAsia,16/10/2021,Goa,Kolkata,09:55,20:50,"2 stop via Mumbai,Hyderabad",7622.0
+1291,AirAsia,16/10/2021,Goa,Kolkata,07:55,20:50,"2 stop via Mumbai,Hyderabad",7622.0
+1292,AirAsia,16/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1293,AirAsia,16/10/2021,Goa,Kolkata,07:35,21:20,1 stop via Bengaluru,7622.0
+1294,AirAsia,16/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1295,AirAsia,16/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1296,AirAsia,16/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1297,IndiGo,16/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1298,IndiGo,16/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1299,IndiGo,16/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,7626.0
+1300,IndiGo,16/10/2021,Goa,Kolkata,13:25,19:50,1 stop via New Delhi,7626.0
+1301,IndiGo,16/10/2021,Goa,Kolkata,12:10,19:50,1 stop via New Delhi,7626.0
+1302,IndiGo,16/10/2021,Goa,Kolkata,15:20,23:10,1 stop via New Delhi,7626.0
+1303,IndiGo,16/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,8272.0
+1304,IndiGo,16/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,8272.0
+1305,IndiGo,16/10/2021,Goa,Kolkata,15:20,22:00,1 stop via New Delhi,8272.0
+1306,IndiGo,16/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,8918.0
+1307,IndiGo,16/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,8918.0
+1308,IndiGo,16/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,8918.0
+1309,AirAsia,16/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",8990.0
+1310,Vistara,16/10/2021,Goa,Kolkata,20:30,09:15,"2 stop via Mumbai,Raipur",10450.0
+1311,"Go First, IndiGo",16/10/2021,Goa,Kolkata,07:10,12:35,1 stop via Hyderabad,10608.0
+1312,"Spicejet, IndiGo",16/10/2021,Goa,Kolkata,15:45,22:05,1 stop via Bengaluru,10809.0
+1313,"Spicejet, AirAsia",16/10/2021,Goa,Kolkata,15:45,21:20,1 stop via Bengaluru,10810.0
+1314,Spicejet,16/10/2021,Goa,Kolkata,16:10,18:40,Non stop,13505.0
+1315,IndiGo,16/10/2021,Goa,Kolkata,14:50,17:55,Non stop,13611.0
+1316,Go First,16/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",15090.0
+1317,Air India,16/10/2021,Goa,Kolkata,07:30,16:00,"2 stop via Mumbai,Bhubaneswar",16132.0
+1318,AirAsia,17/10/2021,Goa,Kolkata,16:35,07:00,1 stop via New Delhi,9410.0
+1319,AirAsia,17/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,8852.0
+1320,IndiGo,17/10/2021,Goa,Kolkata,09:00,19:15,1 stop via Hyderabad,10855.0
+1321,AirAsia,17/10/2021,Goa,Kolkata,07:35,10:35,"3 stop via Bengaluru,Hyderabad,Bhubaneswar",10915.0
+1322,AirAsia,17/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,11823.0
+1323,IndiGo,17/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,12146.0
+1324,IndiGo,17/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,12146.0
+1325,IndiGo,17/10/2021,Goa,Kolkata,11:15,19:15,1 stop via Hyderabad,12146.0
+1326,IndiGo,17/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,12146.0
+1327,IndiGo,17/10/2021,Goa,Kolkata,20:05,07:35,1 stop via Hyderabad,12146.0
+1328,IndiGo,17/10/2021,Goa,Kolkata,21:40,08:45,1 stop via Ahmedabad,12146.0
+1329,"Go First, IndiGo",17/10/2021,Goa,Kolkata,07:10,12:35,1 stop via Hyderabad,13234.0
+1330,IndiGo,17/10/2021,Goa,Kolkata,09:25,17:10,1 stop via New Delhi,13438.0
+1331,IndiGo,17/10/2021,Goa,Kolkata,18:30,04:15,1 stop via Mumbai,13438.0
+1332,IndiGo,17/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,14084.0
+1333,IndiGo,17/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,14729.0
+1334,AirAsia,17/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,15499.0
+1335,"Air India, IndiGo",17/10/2021,Goa,Kolkata,11:05,19:15,"2 stop via Surat,Hyderabad",15860.0
+1336,IndiGo,17/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,16021.0
+1337,IndiGo,17/10/2021,Goa,Kolkata,12:10,19:50,1 stop via New Delhi,16021.0
+1338,AirAsia,17/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,17180.0
+1339,AirAsia,17/10/2021,Goa,Kolkata,15:30,20:50,1 stop via Hyderabad,17180.0
+1340,IndiGo,17/10/2021,Goa,Kolkata,19:50,02:05,1 stop via Mumbai,17654.0
+1341,"IndiGo, AirAsia",17/10/2021,Goa,Kolkata,14:40,20:50,1 stop via Hyderabad,18275.0
+1342,AirAsia,17/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,18338.0
+1343,"AirAsia, IndiGo",17/10/2021,Goa,Kolkata,13:35,19:15,1 stop via Hyderabad,18484.0
+1344,IndiGo,17/10/2021,Goa,Kolkata,12:15,15:05,Non stop,20541.0
+1345,IndiGo,17/10/2021,Goa,Kolkata,14:50,17:55,Non stop,20541.0
+1346,Spicejet,17/10/2021,Goa,Kolkata,16:10,18:40,Non stop,20541.0
+1347,Vistara,17/10/2021,Goa,Kolkata,14:30,22:45,1 stop via New Delhi,24637.0
+1348,AirAsia,18/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,8674.0
+1349,AirAsia,18/10/2021,Goa,Kolkata,15:05,23:30,1 stop via New Delhi,8674.0
+1350,AirAsia,18/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,8674.0
+1351,AirAsia,18/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,8852.0
+1352,IndiGo,18/10/2021,Goa,Kolkata,12:00,22:20,1 stop via Mumbai,10209.0
+1353,AirAsia,18/10/2021,Goa,Kolkata,07:55,19:20,1 stop via Mumbai,10354.0
+1354,AirAsia,18/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,10354.0
+1355,Spicejet,18/10/2021,Goa,Kolkata,14:00,16:35,Non stop,10461.0
+1356,IndiGo,18/10/2021,Goa,Kolkata,10:40,19:10,1 stop via Nagpur,10855.0
+1357,IndiGo,18/10/2021,Goa,Kolkata,16:30,22:20,1 stop via Mumbai,10855.0
+1358,IndiGo,18/10/2021,Goa,Kolkata,10:55,16:25,1 stop via Mumbai,11501.0
+1359,IndiGo,18/10/2021,Goa,Kolkata,09:00,19:15,1 stop via Hyderabad,11501.0
+1360,AirAsia,18/10/2021,Goa,Kolkata,15:30,01:05,1 stop via Hyderabad,11823.0
+1361,IndiGo,18/10/2021,Goa,Kolkata,11:15,19:15,1 stop via Hyderabad,12146.0
+1362,IndiGo,18/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,12146.0
+1363,IndiGo,18/10/2021,Goa,Kolkata,16:25,00:20,1 stop via Bengaluru,12146.0
+1364,IndiGo,18/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,12792.0
+1365,IndiGo,18/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,12792.0
+1366,IndiGo,18/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,12792.0
+1367,IndiGo,18/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,13438.0
+1368,IndiGo,18/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,13438.0
+1369,IndiGo,18/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,14084.0
+1370,IndiGo,18/10/2021,Goa,Kolkata,09:15,16:25,1 stop via Mumbai,14084.0
+1371,IndiGo,18/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,14729.0
+1372,Vistara,18/10/2021,Goa,Kolkata,12:15,19:45,1 stop via Mumbai,16185.0
+1373,IndiGo,18/10/2021,Goa,Kolkata,14:50,17:55,Non stop,16236.0
+1374,Spicejet,18/10/2021,Goa,Kolkata,16:30,19:35,Non stop,16551.0
+1375,AirAsia,18/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,16762.0
+1376,IndiGo,18/10/2021,Goa,Kolkata,17:55,23:20,1 stop via Chennai,16892.0
+1377,IndiGo,18/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,17601.0
+1378,Air India,18/10/2021,Goa,Kolkata,15:20,23:15,1 stop via Mumbai,19072.0
+1379,Go First,18/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",24716.0
+1380,AirAsia,19/10/2021,Goa,Kolkata,15:30,20:50,1 stop via Hyderabad,8674.0
+1381,AirAsia,19/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,7622.0
+1382,AirAsia,19/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1383,Spicejet,19/10/2021,Goa,Kolkata,14:00,16:35,Non stop,7625.0
+1384,AirAsia,19/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,8674.0
+1385,AirAsia,19/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,8674.0
+1386,AirAsia,19/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,8852.0
+1387,IndiGo,19/10/2021,Goa,Kolkata,19:50,04:15,1 stop via Mumbai,8918.0
+1388,AirAsia,19/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,9410.0
+1389,IndiGo,19/10/2021,Goa,Kolkata,09:00,19:15,1 stop via Hyderabad,9563.0
+1390,Spicejet,19/10/2021,Goa,Kolkata,11:50,14:20,Non stop,9935.0
+1391,IndiGo,19/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,10209.0
+1392,IndiGo,19/10/2021,Goa,Kolkata,08:20,15:35,1 stop via Bengaluru,10209.0
+1393,IndiGo,19/10/2021,Goa,Kolkata,11:15,19:15,1 stop via Hyderabad,10209.0
+1394,AirAsia,19/10/2021,Goa,Kolkata,07:55,20:50,"2 stop via Mumbai,Hyderabad",10354.0
+1395,IndiGo,19/10/2021,Goa,Kolkata,12:10,22:05,1 stop via Bengaluru,11501.0
+1396,AirAsia,19/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,11823.0
+1397,IndiGo,19/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,11931.0
+1398,IndiGo,19/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,12146.0
+1399,IndiGo,19/10/2021,Goa,Kolkata,13:00,22:05,1 stop via Bengaluru,12146.0
+1400,IndiGo,19/10/2021,Goa,Kolkata,13:25,23:10,1 stop via New Delhi,12146.0
+1401,IndiGo,19/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,12771.0
+1402,IndiGo,19/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,12792.0
+1403,IndiGo,19/10/2021,Goa,Kolkata,15:25,00:25,1 stop via Ahmedabad,12792.0
+1404,IndiGo,19/10/2021,Goa,Kolkata,19:50,02:05,1 stop via Mumbai,12792.0
+1405,IndiGo,19/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,13401.0
+1406,IndiGo,19/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,13438.0
+1407,IndiGo,19/10/2021,Goa,Kolkata,17:55,00:30,1 stop via Chennai,13769.0
+1408,Go First,19/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,13948.0
+1409,IndiGo,19/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,14729.0
+1410,AirAsia,19/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",15581.0
+1411,IndiGo,19/10/2021,Goa,Kolkata,14:50,17:55,Non stop,16236.0
+1412,AirAsia,19/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,16762.0
+1413,Go First,19/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",17484.0
+1414,Vistara,19/10/2021,Goa,Kolkata,09:15,19:15,"2 stop via Mumbai,Bhubaneswar",18757.0
+1415,Air India,19/10/2021,Goa,Kolkata,07:30,19:10,"2 stop via Mumbai,New Delhi",26632.0
+1416,AirAsia,20/10/2021,Goa,Kolkata,07:55,19:20,1 stop via Mumbai,7622.0
+1417,AirAsia,20/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,7622.0
+1418,Go First,20/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1419,AirAsia,20/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1420,AirAsia,20/10/2021,Goa,Kolkata,07:35,21:20,1 stop via Bengaluru,7622.0
+1421,AirAsia,20/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1422,AirAsia,20/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1423,AirAsia,20/10/2021,Goa,Kolkata,15:30,01:05,1 stop via Hyderabad,7622.0
+1424,AirAsia,20/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1425,Spicejet,20/10/2021,Goa,Kolkata,14:00,16:35,Non stop,7625.0
+1426,IndiGo,20/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1427,IndiGo,20/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1428,IndiGo,20/10/2021,Goa,Kolkata,13:10,22:20,1 stop via Mumbai,7626.0
+1429,Spicejet,20/10/2021,Goa,Kolkata,09:15,18:05,1 stop via Mumbai,7941.0
+1430,IndiGo,20/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,8272.0
+1431,IndiGo,20/10/2021,Goa,Kolkata,10:40,19:10,1 stop via Nagpur,8272.0
+1432,IndiGo,20/10/2021,Goa,Kolkata,13:10,20:05,1 stop via Mumbai,8272.0
+1433,IndiGo,20/10/2021,Goa,Kolkata,12:00,20:05,1 stop via Mumbai,8272.0
+1434,IndiGo,20/10/2021,Goa,Kolkata,16:30,22:20,1 stop via Mumbai,8272.0
+1435,AirAsia,20/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",8990.0
+1436,AirAsia,20/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,9410.0
+1437,IndiGo,20/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,9563.0
+1438,IndiGo,20/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,9563.0
+1439,Spicejet,20/10/2021,Goa,Kolkata,16:30,19:35,Non stop,9935.0
+1440,IndiGo,20/10/2021,Goa,Kolkata,10:55,16:25,1 stop via Mumbai,10209.0
+1441,Go First,20/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",10651.0
+1442,IndiGo,20/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,10724.0
+1443,Vistara,20/10/2021,Goa,Kolkata,13:20,19:45,1 stop via Mumbai,11407.0
+1444,IndiGo,20/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,11511.0
+1445,IndiGo,20/10/2021,Goa,Kolkata,17:55,23:20,1 stop via Chennai,12194.0
+1446,Air India,20/10/2021,Goa,Kolkata,15:20,23:15,1 stop via Mumbai,14347.0
+1447,IndiGo,20/10/2021,Goa,Kolkata,14:50,17:55,Non stop,14451.0
+1448,AirAsia,21/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,7622.0
+1449,AirAsia,21/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,7622.0
+1450,Go First,21/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1451,AirAsia,21/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1452,AirAsia,21/10/2021,Goa,Kolkata,15:05,23:30,1 stop via New Delhi,7622.0
+1453,Go First,21/10/2021,Goa,Kolkata,16:15,00:05,1 stop via Mumbai,7622.0
+1454,Go First,21/10/2021,Goa,Kolkata,14:25,00:05,1 stop via Mumbai,7622.0
+1455,Go First,21/10/2021,Goa,Kolkata,11:45,00:05,1 stop via Mumbai,7622.0
+1456,AirAsia,21/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1457,AirAsia,21/10/2021,Goa,Kolkata,13:35,01:35,"2 stop via Hyderabad,Bengaluru",7622.0
+1458,AirAsia,21/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",7622.0
+1459,Spicejet,21/10/2021,Goa,Kolkata,15:45,22:30,1 stop via Bengaluru,7625.0
+1460,IndiGo,21/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1461,IndiGo,21/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1462,IndiGo,21/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,7626.0
+1463,IndiGo,21/10/2021,Goa,Kolkata,09:25,17:10,1 stop via New Delhi,7626.0
+1464,IndiGo,21/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,7626.0
+1465,IndiGo,21/10/2021,Goa,Kolkata,11:15,19:15,1 stop via Hyderabad,7626.0
+1466,IndiGo,21/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,7626.0
+1467,IndiGo,21/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,7626.0
+1468,IndiGo,21/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,7626.0
+1469,IndiGo,21/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,7626.0
+1470,IndiGo,21/10/2021,Goa,Kolkata,19:50,02:05,1 stop via Mumbai,7626.0
+1471,IndiGo,21/10/2021,Goa,Kolkata,18:30,02:05,1 stop via Mumbai,7626.0
+1472,IndiGo,21/10/2021,Goa,Kolkata,16:30,02:05,1 stop via Mumbai,7626.0
+1473,IndiGo,21/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,7626.0
+1474,Spicejet,21/10/2021,Goa,Kolkata,16:10,18:40,Non stop,7731.0
+1475,IndiGo,21/10/2021,Goa,Kolkata,18:30,00:20,1 stop via Mumbai,8272.0
+1476,IndiGo,21/10/2021,Goa,Kolkata,16:30,00:20,1 stop via Mumbai,8272.0
+1477,IndiGo,21/10/2021,Goa,Kolkata,14:50,17:55,Non stop,8991.0
+1478,Go First,21/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",10651.0
+1479,Vistara,21/10/2021,Goa,Kolkata,11:35,19:35,1 stop via New Delhi,12682.0
+1480,Air India,21/10/2021,Goa,Kolkata,07:30,14:25,"2 stop via Mumbai,Bengaluru",13087.0
+1481,AirAsia,22/10/2021,Goa,Kolkata,07:55,19:20,1 stop via Mumbai,7622.0
+1482,AirAsia,22/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,7622.0
+1483,AirAsia,22/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,7622.0
+1484,Go First,22/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1485,Go First,22/10/2021,Goa,Kolkata,16:15,23:40,1 stop via Mumbai,7622.0
+1486,Go First,22/10/2021,Goa,Kolkata,14:25,23:40,1 stop via Mumbai,7622.0
+1487,Go First,22/10/2021,Goa,Kolkata,11:45,23:40,1 stop via Mumbai,7622.0
+1488,AirAsia,22/10/2021,Goa,Kolkata,15:30,01:05,1 stop via Hyderabad,7622.0
+1489,AirAsia,22/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1490,AirAsia,22/10/2021,Goa,Kolkata,13:35,01:35,"2 stop via Hyderabad,Bengaluru",7622.0
+1491,AirAsia,22/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",7622.0
+1492,Spicejet,22/10/2021,Goa,Kolkata,14:00,16:35,Non stop,7625.0
+1493,Spicejet,22/10/2021,Goa,Kolkata,16:30,19:35,Non stop,7625.0
+1494,IndiGo,22/10/2021,Goa,Kolkata,14:50,17:55,Non stop,7626.0
+1495,IndiGo,22/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1496,IndiGo,22/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1497,IndiGo,22/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,7626.0
+1498,IndiGo,22/10/2021,Goa,Kolkata,10:55,16:25,1 stop via Mumbai,7626.0
+1499,IndiGo,22/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,7626.0
+1500,IndiGo,22/10/2021,Goa,Kolkata,12:10,19:50,1 stop via New Delhi,7626.0
+1501,IndiGo,22/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,7626.0
+1502,IndiGo,22/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,7626.0
+1503,IndiGo,22/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,7626.0
+1504,IndiGo,22/10/2021,Goa,Kolkata,16:30,22:20,1 stop via Mumbai,7626.0
+1505,IndiGo,22/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,7626.0
+1506,IndiGo,22/10/2021,Goa,Kolkata,17:55,23:20,1 stop via Chennai,7626.0
+1507,Vistara,22/10/2021,Goa,Kolkata,13:20,19:45,1 stop via Mumbai,9915.0
+1508,Go First,22/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",11748.0
+1509,Air India,22/10/2021,Goa,Kolkata,15:20,23:15,1 stop via Mumbai,13717.0
+1510,Go First,23/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1511,AirAsia,23/10/2021,Goa,Kolkata,13:35,20:50,1 stop via Hyderabad,7622.0
+1512,AirAsia,23/10/2021,Goa,Kolkata,09:55,20:50,"2 stop via Mumbai,Hyderabad",7622.0
+1513,AirAsia,23/10/2021,Goa,Kolkata,07:55,20:50,"2 stop via Mumbai,Hyderabad",7622.0
+1514,AirAsia,23/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1515,AirAsia,23/10/2021,Goa,Kolkata,07:35,21:20,1 stop via Bengaluru,7622.0
+1516,AirAsia,23/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1517,AirAsia,23/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1518,AirAsia,23/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1519,AirAsia,23/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",7622.0
+1520,IndiGo,23/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1521,IndiGo,23/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1522,IndiGo,23/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,7626.0
+1523,IndiGo,23/10/2021,Goa,Kolkata,09:25,17:10,1 stop via New Delhi,7626.0
+1524,IndiGo,23/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,7626.0
+1525,IndiGo,23/10/2021,Goa,Kolkata,12:10,19:50,1 stop via New Delhi,7626.0
+1526,IndiGo,23/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,7626.0
+1527,IndiGo,23/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,7626.0
+1528,IndiGo,23/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,7626.0
+1529,IndiGo,23/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,7626.0
+1530,Spicejet,23/10/2021,Goa,Kolkata,16:10,18:40,Non stop,7731.0
+1531,IndiGo,23/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,10855.0
+1532,Vistara,23/10/2021,Goa,Kolkata,11:35,19:35,1 stop via New Delhi,13396.0
+1533,IndiGo,23/10/2021,Goa,Kolkata,14:50,17:55,Non stop,13611.0
+1534,Go First,23/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",15090.0
+1535,Air India,23/10/2021,Goa,Kolkata,07:30,16:00,"2 stop via Mumbai,Bhubaneswar",16027.0
+1536,AirAsia,24/10/2021,Goa,Kolkata,07:55,20:50,"2 stop via Mumbai,Hyderabad",7622.0
+1537,AirAsia,24/10/2021,Goa,Kolkata,07:35,21:20,1 stop via Bengaluru,7622.0
+1538,AirAsia,24/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1539,AirAsia,24/10/2021,Goa,Kolkata,08:20,21:40,1 stop via New Delhi,7622.0
+1540,AirAsia,24/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1541,IndiGo,24/10/2021,Goa,Kolkata,12:15,15:05,Non stop,7626.0
+1542,IndiGo,24/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1543,IndiGo,24/10/2021,Goa,Kolkata,09:25,17:10,1 stop via New Delhi,7626.0
+1544,IndiGo,24/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,7626.0
+1545,IndiGo,24/10/2021,Goa,Kolkata,21:40,08:45,1 stop via Ahmedabad,7626.0
+1546,IndiGo,24/10/2021,Goa,Kolkata,15:20,22:00,1 stop via New Delhi,8272.0
+1547,IndiGo,24/10/2021,Goa,Kolkata,14:50,17:55,Non stop,8361.0
+1548,IndiGo,24/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,8918.0
+1549,IndiGo,24/10/2021,Goa,Kolkata,12:10,20:25,1 stop via Bengaluru,8918.0
+1550,IndiGo,24/10/2021,Goa,Kolkata,11:15,21:30,1 stop via Hyderabad,8918.0
+1551,IndiGo,24/10/2021,Goa,Kolkata,13:25,22:00,1 stop via New Delhi,8918.0
+1552,IndiGo,24/10/2021,Goa,Kolkata,12:10,22:00,1 stop via New Delhi,8918.0
+1553,IndiGo,24/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,8918.0
+1554,Spicejet,24/10/2021,Goa,Kolkata,16:10,18:40,Non stop,8991.0
+1555,AirAsia,24/10/2021,Goa,Kolkata,15:30,20:50,1 stop via Hyderabad,9410.0
+1556,AirAsia,24/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,9522.0
+1557,AirAsia,24/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,9830.0
+1558,IndiGo,24/10/2021,Goa,Kolkata,13:25,19:50,1 stop via New Delhi,10209.0
+1559,IndiGo,24/10/2021,Goa,Kolkata,19:50,04:15,1 stop via Mumbai,10209.0
+1560,AirAsia,24/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,11174.0
+1561,IndiGo,24/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,11501.0
+1562,IndiGo,24/10/2021,Goa,Kolkata,12:10,19:50,1 stop via New Delhi,11501.0
+1563,IndiGo,24/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,11501.0
+1564,IndiGo,24/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,11501.0
+1565,IndiGo,24/10/2021,Goa,Kolkata,19:50,02:05,1 stop via Mumbai,11501.0
+1566,Vistara,24/10/2021,Goa,Kolkata,11:35,19:35,1 stop via New Delhi,14288.0
+1567,Air India,24/10/2021,Goa,Kolkata,07:30,16:00,"2 stop via Mumbai,Bhubaneswar",16657.0
+1568,Go First,24/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",20177.0
+1569,AirAsia,25/10/2021,Goa,Kolkata,07:55,19:20,1 stop via Mumbai,7622.0
+1570,AirAsia,25/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,7622.0
+1571,Go First,25/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1572,AirAsia,25/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1573,AirAsia,25/10/2021,Goa,Kolkata,07:35,21:20,1 stop via Bengaluru,7622.0
+1574,AirAsia,25/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1575,AirAsia,25/10/2021,Goa,Kolkata,08:20,21:40,1 stop via New Delhi,7622.0
+1576,Go First,25/10/2021,Goa,Kolkata,11:10,23:05,1 stop via New Delhi,7622.0
+1577,AirAsia,25/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1578,AirAsia,25/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1579,AirAsia,25/10/2021,Goa,Kolkata,15:05,08:35,"2 stop via New Delhi,Guwahati",7622.0
+1580,Spicejet,25/10/2021,Goa,Kolkata,14:00,16:35,Non stop,7625.0
+1581,Spicejet,25/10/2021,Goa,Kolkata,16:30,19:35,Non stop,7625.0
+1582,IndiGo,25/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1583,IndiGo,25/10/2021,Goa,Kolkata,09:25,17:10,1 stop via New Delhi,7626.0
+1584,IndiGo,25/10/2021,Goa,Kolkata,12:10,19:50,1 stop via New Delhi,7626.0
+1585,IndiGo,25/10/2021,Goa,Kolkata,13:10,20:05,1 stop via Mumbai,7626.0
+1586,IndiGo,25/10/2021,Goa,Kolkata,12:00,20:05,1 stop via Mumbai,7626.0
+1587,IndiGo,25/10/2021,Goa,Kolkata,15:20,22:00,1 stop via New Delhi,7626.0
+1588,IndiGo,25/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,7626.0
+1589,IndiGo,25/10/2021,Goa,Kolkata,16:30,22:20,1 stop via Mumbai,7626.0
+1590,IndiGo,25/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,7626.0
+1591,AirAsia,25/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",8044.0
+1592,IndiGo,25/10/2021,Goa,Kolkata,09:15,16:25,1 stop via Mumbai,8272.0
+1593,IndiGo,25/10/2021,Goa,Kolkata,14:50,17:55,Non stop,8361.0
+1594,IndiGo,25/10/2021,Goa,Kolkata,13:25,19:50,1 stop via New Delhi,8918.0
+1595,AirAsia,25/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,9522.0
+1596,IndiGo,25/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,9563.0
+1597,Go First,25/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",10651.0
+1598,Vistara,25/10/2021,Goa,Kolkata,13:20,19:45,1 stop via Mumbai,11407.0
+1599,Air India,25/10/2021,Goa,Kolkata,07:30,14:25,"2 stop via Mumbai,Bengaluru",14032.0
+1600,AirAsia,26/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,7622.0
+1601,AirAsia,26/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,7622.0
+1602,Go First,26/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1603,AirAsia,26/10/2021,Goa,Kolkata,15:30,20:50,1 stop via Hyderabad,7622.0
+1604,AirAsia,26/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1605,AirAsia,26/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1606,Go First,26/10/2021,Goa,Kolkata,17:25,23:05,1 stop via New Delhi,7622.0
+1607,AirAsia,26/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1608,Go First,26/10/2021,Goa,Kolkata,16:15,00:05,1 stop via Mumbai,7622.0
+1609,Go First,26/10/2021,Goa,Kolkata,14:25,00:05,1 stop via Mumbai,7622.0
+1610,AirAsia,26/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1611,AirAsia,26/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",7622.0
+1612,Spicejet,26/10/2021,Goa,Kolkata,16:10,18:40,Non stop,7625.0
+1613,IndiGo,26/10/2021,Goa,Kolkata,14:50,17:55,Non stop,7626.0
+1614,IndiGo,26/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1615,IndiGo,26/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1616,IndiGo,26/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,7626.0
+1617,IndiGo,26/10/2021,Goa,Kolkata,13:25,19:50,1 stop via New Delhi,7626.0
+1618,IndiGo,26/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,7626.0
+1619,IndiGo,26/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,7626.0
+1620,IndiGo,26/10/2021,Goa,Kolkata,15:20,22:00,1 stop via New Delhi,7626.0
+1621,IndiGo,26/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,7626.0
+1622,IndiGo,26/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,7626.0
+1623,IndiGo,26/10/2021,Goa,Kolkata,18:30,00:20,1 stop via Mumbai,7626.0
+1624,IndiGo,26/10/2021,Goa,Kolkata,17:55,00:30,1 stop via Chennai,7626.0
+1625,IndiGo,26/10/2021,Goa,Kolkata,19:50,02:05,1 stop via Mumbai,7626.0
+1626,IndiGo,26/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,7626.0
+1627,Go First,26/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",10651.0
+1628,Vistara,26/10/2021,Goa,Kolkata,11:35,19:35,1 stop via New Delhi,11343.0
+1629,Air India,26/10/2021,Goa,Kolkata,15:25,22:20,1 stop via New Delhi,13612.0
+1630,AirAsia,27/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,7622.0
+1631,AirAsia,27/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,7622.0
+1632,Go First,27/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1633,AirAsia,27/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1634,AirAsia,27/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1635,Go First,27/10/2021,Goa,Kolkata,17:25,23:05,1 stop via New Delhi,7622.0
+1636,AirAsia,27/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1637,Go First,27/10/2021,Goa,Kolkata,16:15,23:40,1 stop via Mumbai,7622.0
+1638,Go First,27/10/2021,Goa,Kolkata,14:25,23:40,1 stop via Mumbai,7622.0
+1639,AirAsia,27/10/2021,Goa,Kolkata,15:30,01:05,1 stop via Hyderabad,7622.0
+1640,AirAsia,27/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1641,AirAsia,27/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",7622.0
+1642,Spicejet,27/10/2021,Goa,Kolkata,14:00,16:35,Non stop,7625.0
+1643,Spicejet,27/10/2021,Goa,Kolkata,16:30,19:35,Non stop,7625.0
+1644,IndiGo,27/10/2021,Goa,Kolkata,14:50,17:55,Non stop,7626.0
+1645,IndiGo,27/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1646,IndiGo,27/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1647,IndiGo,27/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,7626.0
+1648,IndiGo,27/10/2021,Goa,Kolkata,10:55,16:25,1 stop via Mumbai,7626.0
+1649,IndiGo,27/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,7626.0
+1650,IndiGo,27/10/2021,Goa,Kolkata,13:25,19:50,1 stop via New Delhi,7626.0
+1651,IndiGo,27/10/2021,Goa,Kolkata,13:10,20:05,1 stop via Mumbai,7626.0
+1652,IndiGo,27/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,7626.0
+1653,IndiGo,27/10/2021,Goa,Kolkata,15:20,22:00,1 stop via New Delhi,7626.0
+1654,IndiGo,27/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,7626.0
+1655,IndiGo,27/10/2021,Goa,Kolkata,16:30,22:20,1 stop via Mumbai,7626.0
+1656,IndiGo,27/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,7626.0
+1657,Vistara,27/10/2021,Goa,Kolkata,13:20,19:45,1 stop via Mumbai,9915.0
+1658,Go First,27/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",10651.0
+1659,Air India,27/10/2021,Goa,Kolkata,15:20,23:15,1 stop via Mumbai,12877.0
+1660,AirAsia,28/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,7622.0
+1661,AirAsia,28/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,7622.0
+1662,Go First,28/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1663,AirAsia,28/10/2021,Goa,Kolkata,15:30,20:50,1 stop via Hyderabad,7622.0
+1664,AirAsia,28/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1665,AirAsia,28/10/2021,Goa,Kolkata,13:35,21:20,"2 stop via Hyderabad,Bengaluru",7622.0
+1666,AirAsia,28/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1667,Go First,28/10/2021,Goa,Kolkata,17:25,23:05,1 stop via New Delhi,7622.0
+1668,AirAsia,28/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1669,Go First,28/10/2021,Goa,Kolkata,16:15,00:05,1 stop via Mumbai,7622.0
+1670,AirAsia,28/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1671,AirAsia,28/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",7622.0
+1672,Spicejet,28/10/2021,Goa,Kolkata,16:10,18:40,Non stop,7625.0
+1673,Spicejet,28/10/2021,Goa,Kolkata,15:45,22:30,1 stop via Bengaluru,7625.0
+1674,IndiGo,28/10/2021,Goa,Kolkata,14:50,17:55,Non stop,7626.0
+1675,IndiGo,28/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1676,IndiGo,28/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1677,IndiGo,28/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,7626.0
+1678,IndiGo,28/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,7626.0
+1679,IndiGo,28/10/2021,Goa,Kolkata,13:25,19:50,1 stop via New Delhi,7626.0
+1680,IndiGo,28/10/2021,Goa,Kolkata,12:10,19:50,1 stop via New Delhi,7626.0
+1681,IndiGo,28/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,7626.0
+1682,IndiGo,28/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,7626.0
+1683,IndiGo,28/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,7626.0
+1684,IndiGo,28/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,7626.0
+1685,IndiGo,28/10/2021,Goa,Kolkata,17:55,00:30,1 stop via Chennai,7626.0
+1686,IndiGo,28/10/2021,Goa,Kolkata,19:50,02:05,1 stop via Mumbai,7626.0
+1687,IndiGo,28/10/2021,Goa,Kolkata,21:50,04:50,1 stop via New Delhi,7626.0
+1688,Go First,28/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",10651.0
+1689,Vistara,28/10/2021,Goa,Kolkata,11:35,19:35,1 stop via New Delhi,12682.0
+1690,Air India,28/10/2021,Goa,Kolkata,15:25,22:20,1 stop via New Delhi,14032.0
+1691,AirAsia,29/10/2021,Goa,Kolkata,07:55,19:20,1 stop via Mumbai,7622.0
+1692,AirAsia,29/10/2021,Goa,Kolkata,13:35,19:25,1 stop via Hyderabad,7622.0
+1693,Go First,29/10/2021,Goa,Kolkata,12:10,19:55,1 stop via Bengaluru,7622.0
+1694,AirAsia,29/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1695,AirAsia,29/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1696,AirAsia,29/10/2021,Goa,Kolkata,16:35,23:30,1 stop via New Delhi,7622.0
+1697,Go First,29/10/2021,Goa,Kolkata,16:15,23:40,1 stop via Mumbai,7622.0
+1698,Go First,29/10/2021,Goa,Kolkata,14:25,23:40,1 stop via Mumbai,7622.0
+1699,Go First,29/10/2021,Goa,Kolkata,13:40,23:40,1 stop via Mumbai,7622.0
+1700,Go First,29/10/2021,Goa,Kolkata,11:45,23:40,1 stop via Mumbai,7622.0
+1701,AirAsia,29/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1702,Spicejet,29/10/2021,Goa,Kolkata,14:00,16:35,Non stop,7625.0
+1703,Spicejet,29/10/2021,Goa,Kolkata,16:30,19:35,Non stop,7625.0
+1704,IndiGo,29/10/2021,Goa,Kolkata,14:50,17:55,Non stop,7626.0
+1705,IndiGo,29/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,7626.0
+1706,IndiGo,29/10/2021,Goa,Kolkata,09:30,15:35,1 stop via Bengaluru,7626.0
+1707,IndiGo,29/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,7626.0
+1708,IndiGo,29/10/2021,Goa,Kolkata,10:55,16:25,1 stop via Mumbai,7626.0
+1709,IndiGo,29/10/2021,Goa,Kolkata,09:15,16:25,1 stop via Mumbai,7626.0
+1710,IndiGo,29/10/2021,Goa,Kolkata,09:25,17:10,1 stop via New Delhi,7626.0
+1711,IndiGo,29/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,7626.0
+1712,IndiGo,29/10/2021,Goa,Kolkata,11:15,19:15,1 stop via Hyderabad,7626.0
+1713,IndiGo,29/10/2021,Goa,Kolkata,14:40,21:30,1 stop via Hyderabad,7626.0
+1714,IndiGo,29/10/2021,Goa,Kolkata,15:20,23:10,1 stop via New Delhi,7626.0
+1715,IndiGo,29/10/2021,Goa,Kolkata,17:55,23:20,1 stop via Chennai,7626.0
+1716,AirAsia,29/10/2021,Goa,Kolkata,15:30,19:25,1 stop via Hyderabad,8047.0
+1717,AirAsia,29/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",8674.0
+1718,IndiGo,29/10/2021,Goa,Kolkata,16:30,22:20,1 stop via Mumbai,9563.0
+1719,Vistara,29/10/2021,Goa,Kolkata,13:20,19:45,1 stop via Mumbai,10450.0
+1720,Go First,29/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",10651.0
+1721,IndiGo,29/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,10724.0
+1722,Air India,29/10/2021,Goa,Kolkata,15:25,22:20,1 stop via New Delhi,15397.0
+1723,AirAsia,30/10/2021,Goa,Kolkata,17:05,21:20,1 stop via Bengaluru,7622.0
+1724,AirAsia,30/10/2021,Goa,Kolkata,07:35,21:20,1 stop via Bengaluru,7622.0
+1725,AirAsia,30/10/2021,Goa,Kolkata,15:05,21:40,1 stop via New Delhi,7622.0
+1726,AirAsia,30/10/2021,Goa,Kolkata,17:05,01:35,1 stop via Bengaluru,7622.0
+1727,AirAsia,30/10/2021,Goa,Kolkata,16:35,07:10,1 stop via New Delhi,7622.0
+1728,Go First,30/10/2021,Goa,Kolkata,17:25,08:00,1 stop via New Delhi,7622.0
+1729,AirAsia,30/10/2021,Goa,Kolkata,15:05,08:25,"2 stop via New Delhi,Guwahati",7622.0
+1730,IndiGo,30/10/2021,Goa,Kolkata,14:50,17:55,Non stop,7626.0
+1731,IndiGo,30/10/2021,Goa,Kolkata,09:00,15:55,1 stop via Hyderabad,7626.0
+1732,IndiGo,30/10/2021,Goa,Kolkata,15:20,23:10,1 stop via New Delhi,7626.0
+1733,IndiGo,30/10/2021,Goa,Kolkata,13:25,23:10,1 stop via New Delhi,7626.0
+1734,IndiGo,30/10/2021,Goa,Kolkata,12:10,23:10,1 stop via New Delhi,7626.0
+1735,Spicejet,30/10/2021,Goa,Kolkata,16:10,18:40,Non stop,7731.0
+1736,AirAsia,30/10/2021,Goa,Kolkata,09:55,20:50,"2 stop via Mumbai,Hyderabad",8044.0
+1737,IndiGo,30/10/2021,Goa,Kolkata,08:20,15:35,1 stop via Bengaluru,8272.0
+1738,AirAsia,30/10/2021,Goa,Kolkata,13:35,20:50,1 stop via Hyderabad,8990.0
+1739,AirAsia,30/10/2021,Goa,Kolkata,18:55,01:40,"2 stop via Mumbai,Bengaluru",9410.0
+1740,IndiGo,30/10/2021,Goa,Kolkata,16:25,00:20,1 stop via Bengaluru,10195.0
+1741,AirAsia,30/10/2021,Goa,Kolkata,13:35,21:20,"2 stop via Hyderabad,Bengaluru",10354.0
+1742,IndiGo,30/10/2021,Goa,Kolkata,13:00,20:25,1 stop via Bengaluru,11249.0
+1743,IndiGo,30/10/2021,Goa,Kolkata,16:25,22:05,1 stop via Bengaluru,11249.0
+1744,Spicejet,30/10/2021,Goa,Kolkata,15:45,22:30,1 stop via Bengaluru,11826.0
+1745,IndiGo,30/10/2021,Goa,Kolkata,13:25,19:50,1 stop via New Delhi,12146.0
+1746,IndiGo,30/10/2021,Goa,Kolkata,12:10,17:50,1 stop via Bengaluru,12269.0
+1747,Vistara,30/10/2021,Goa,Kolkata,14:30,22:45,1 stop via New Delhi,12682.0
+1748,IndiGo,30/10/2021,Goa,Kolkata,18:05,22:40,1 stop via Hyderabad,12824.0
+1749,Go First,30/10/2021,Goa,Kolkata,15:40,21:55,"2 stop via Ahmedabad,Jaipur",12845.0
+1750,IndiGo,30/10/2021,Goa,Kolkata,08:20,13:55,1 stop via Bengaluru,12871.0
+1751,Air India,30/10/2021,Goa,Kolkata,07:30,16:00,"2 stop via Mumbai,Bhubaneswar",18418.0
+1752,AirAsia,31/10/2021,Goa,Kolkata,07:35,21:05,1 stop via Bengaluru,7622.0
+1753,AirAsia,31/10/2021,Goa,Kolkata,20:05,01:05,1 stop via Hyderabad,7622.0
+1754,IndiGo,31/10/2021,Goa,Kolkata,08:05,15:50,1 stop via Bengaluru,7626.0
+1755,IndiGo,31/10/2021,Goa,Kolkata,12:00,20:40,1 stop via Bengaluru,7626.0
+1756,IndiGo,31/10/2021,Goa,Kolkata,10:55,20:40,1 stop via Bengaluru,7626.0
+1757,IndiGo,31/10/2021,Goa,Kolkata,18:55,01:55,1 stop via Bengaluru,7626.0
+1758,IndiGo,31/10/2021,Goa,Kolkata,18:55,00:10,1 stop via Bengaluru,8272.0
+1759,Spicejet,31/10/2021,Goa,Kolkata,07:30,08:30,1 stop via Bengaluru,8571.0
+1760,Spicejet,31/10/2021,Goa,Kolkata,17:05,08:45,1 stop via Chennai,8571.0
+1761,Spicejet,31/10/2021,Goa,Kolkata,18:30,21:25,Non stop,8991.0
+1762,AirAsia,31/10/2021,Goa,Kolkata,17:55,01:05,1 stop via Hyderabad,9830.0
+1763,AirAsia,31/10/2021,Goa,Kolkata,07:35,19:20,"2 stop via Bengaluru,Bhubaneswar",10354.0
+1764,IndiGo,31/10/2021,Goa,Kolkata,21:45,06:10,1 stop via Bengaluru,10956.0
+1765,IndiGo,31/10/2021,Goa,Kolkata,15:05,17:40,Non stop,11511.0
+1766,IndiGo,31/10/2021,Goa,Kolkata,16:05,01:55,1 stop via Bengaluru,11796.0
+1767,IndiGo,31/10/2021,Goa,Kolkata,14:35,01:55,1 stop via Bengaluru,11796.0
+1768,IndiGo,31/10/2021,Goa,Kolkata,16:05,22:45,1 stop via Bengaluru,12015.0
+1769,IndiGo,31/10/2021,Goa,Kolkata,07:35,13:20,1 stop via Hyderabad,12824.0
+1770,IndiGo,31/10/2021,Goa,Kolkata,14:35,20:40,1 stop via Bengaluru,14684.0
+1771,AirAsia,31/10/2021,Goa,Kolkata,17:55,01:25,"2 stop via Hyderabad,Bengaluru",14866.0
+1772,IndiGo,31/10/2021,Goa,Kolkata,12:00,17:45,1 stop via Bengaluru,15472.0
+1773,IndiGo,31/10/2021,Goa,Kolkata,10:55,17:45,1 stop via Bengaluru,15472.0
+1774,AirAsia,31/10/2021,Goa,Kolkata,16:35,23:10,1 stop via New Delhi,15499.0
+1775,IndiGo,31/10/2021,Goa,Kolkata,14:40,22:45,1 stop via Indore,16026.0
+1776,Go First,31/10/2021,Goa,Kolkata,18:15,23:50,1 stop via Mumbai,16729.0
+1777,Go First,31/10/2021,Goa,Kolkata,17:00,23:50,1 stop via Mumbai,16729.0
+1778,IndiGo,31/10/2021,Goa,Kolkata,08:05,14:25,1 stop via Bengaluru,17774.0
+1779,Air India,31/10/2021,Goa,Kolkata,14:10,22:20,1 stop via New Delhi,18127.0
+1780,Vistara,31/10/2021,Goa,Kolkata,08:40,16:55,1 stop via Mumbai,18652.0
+1781,IndiGo,15/10/2021,Goa,Pune,16:00,17:10,Non stop,5946.0
+1782,IndiGo,15/10/2021,Ahmedabad,Goa,20:15,07:40,1 stop via Bengaluru,6431.0
+1783,Go First,15/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1784,Spicejet,15/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5376.0
+1785,IndiGo,15/10/2021,Ahmedabad,Goa,21:45,08:30,1 stop via Hyderabad,6431.0
+1786,IndiGo,15/10/2021,Ahmedabad,Goa,23:35,07:40,1 stop via Bengaluru,6888.0
+1787,IndiGo,15/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,10206.0
+1788,Air India,15/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,10281.0
+1789,Spicejet,15/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,10520.0
+1790,Go First,15/10/2021,Ahmedabad,Goa,21:35,11:05,1 stop via Mumbai,15634.0
+1791,"IndiGo, Go First",15/10/2021,Ahmedabad,Goa,18:15,13:10,"2 stop via Mumbai,New Delhi",17068.0
+1792,"IndiGo, Go First",15/10/2021,Ahmedabad,Goa,15:10,13:10,"2 stop via Mumbai,New Delhi",17068.0
+1793,Air India,15/10/2021,Ahmedabad,Goa,22:20,14:45,"2 stop via New Delhi,Mumbai",18712.0
+1794,"IndiGo, Go First",15/10/2021,Ahmedabad,Goa,18:15,10:40,"2 stop via Mumbai,New Delhi",20900.0
+1795,"IndiGo, Go First",15/10/2021,Ahmedabad,Goa,15:10,10:40,"2 stop via Mumbai,New Delhi",20900.0
+1796,"IndiGo, Go First",15/10/2021,Ahmedabad,Goa,15:10,10:40,"2 stop via Mumbai,New Delhi",20900.0
+1797,Go First,16/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1798,Go First,16/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+1799,Go First,16/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+1800,Go First,16/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+1801,Go First,16/10/2021,Ahmedabad,Goa,17:45,06:50,1 stop via Mumbai,5060.0
+1802,IndiGo,16/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5061.0
+1803,IndiGo,16/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,5061.0
+1804,IndiGo,16/10/2021,Ahmedabad,Goa,23:35,07:40,1 stop via Bengaluru,5061.0
+1805,Spicejet,16/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5376.0
+1806,Spicejet,16/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,6426.0
+1807,Go First,16/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,6794.0
+1808,Spicejet,16/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,7266.0
+1809,IndiGo,16/10/2021,Ahmedabad,Goa,11:55,18:00,1 stop via Mumbai,7345.0
+1810,IndiGo,16/10/2021,Ahmedabad,Goa,11:55,18:00,1 stop via Mumbai,7345.0
+1811,IndiGo,16/10/2021,Ahmedabad,Goa,09:30,18:00,1 stop via Mumbai,7345.0
+1812,IndiGo,16/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,7802.0
+1813,Go First,16/10/2021,Ahmedabad,Goa,08:45,15:40,1 stop via Mumbai,9020.0
+1814,IndiGo,16/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,9172.0
+1815,IndiGo,16/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,10731.0
+1816,IndiGo,16/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,10731.0
+1817,"IndiGo, Air India",16/10/2021,Ahmedabad,Goa,09:30,14:45,1 stop via Mumbai,12684.0
+1818,Vistara,16/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,15615.0
+1819,Spicejet,17/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+1820,Spicejet,17/10/2021,Ahmedabad,Goa,08:30,09:55,Non stop,5060.0
+1821,Spicejet,17/10/2021,Ahmedabad,Goa,15:35,17:55,Non stop,5060.0
+1822,Spicejet,17/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+1823,Go First,17/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1824,Go First,17/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1825,Go First,17/10/2021,Ahmedabad,Goa,17:45,06:50,1 stop via Mumbai,5060.0
+1826,IndiGo,17/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5061.0
+1827,IndiGo,17/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+1828,IndiGo,17/10/2021,Ahmedabad,Goa,07:05,11:05,1 stop via Mumbai,5061.0
+1829,IndiGo,17/10/2021,Ahmedabad,Goa,09:45,11:45,Non stop,5166.0
+1830,IndiGo,17/10/2021,Ahmedabad,Goa,09:30,19:20,1 stop via Mumbai,5518.0
+1831,IndiGo,17/10/2021,Ahmedabad,Goa,09:30,19:20,1 stop via Mumbai,5518.0
+1832,IndiGo,17/10/2021,Ahmedabad,Goa,23:35,07:40,1 stop via Bengaluru,6431.0
+1833,Air India,17/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+1834,IndiGo,17/10/2021,Ahmedabad,Goa,20:15,07:40,1 stop via Bengaluru,6888.0
+1835,IndiGo,17/10/2021,Ahmedabad,Goa,21:45,08:30,1 stop via Hyderabad,8258.0
+1836,Go First,17/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,8284.0
+1837,IndiGo,17/10/2021,Ahmedabad,Goa,07:20,13:55,1 stop via Hyderabad,8715.0
+1838,IndiGo,17/10/2021,Ahmedabad,Goa,08:45,15:50,1 stop via Bengaluru,10542.0
+1839,"IndiGo, Vistara",17/10/2021,Ahmedabad,Goa,09:30,14:40,1 stop via Mumbai,10689.0
+1840,Vistara,17/10/2021,Ahmedabad,Goa,20:20,10:55,1 stop via New Delhi,10999.0
+1841,Go First,17/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,13095.0
+1842,Vistara,17/10/2021,Ahmedabad,Goa,08:40,19:50,1 stop via New Delhi,15300.0
+1843,Vistara,17/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,16140.0
+1844,Spicejet,18/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+1845,Spicejet,18/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,5060.0
+1846,Spicejet,18/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+1847,Go First,18/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1848,Go First,18/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1849,Go First,18/10/2021,Ahmedabad,Goa,08:45,16:35,1 stop via Mumbai,5060.0
+1850,Go First,18/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+1851,Go First,18/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+1852,Go First,18/10/2021,Ahmedabad,Goa,17:45,06:50,1 stop via Mumbai,5060.0
+1853,IndiGo,18/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5061.0
+1854,IndiGo,18/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,5061.0
+1855,IndiGo,18/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+1856,IndiGo,18/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+1857,IndiGo,18/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,5061.0
+1858,IndiGo,18/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+1859,IndiGo,18/10/2021,Ahmedabad,Goa,23:35,07:40,1 stop via Bengaluru,5061.0
+1860,Go First,18/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,5638.0
+1861,IndiGo,18/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5975.0
+1862,IndiGo,18/10/2021,Ahmedabad,Goa,13:10,19:35,1 stop via Hyderabad,6431.0
+1863,Air India,18/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+1864,Vistara,18/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,10999.0
+1865,Spicejet,19/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+1866,Spicejet,19/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+1867,Go First,19/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1868,Go First,19/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1869,Go First,19/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1870,Go First,19/10/2021,Ahmedabad,Goa,08:45,16:30,1 stop via Mumbai,5060.0
+1871,Go First,19/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+1872,Go First,19/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+1873,IndiGo,19/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5061.0
+1874,IndiGo,19/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+1875,IndiGo,19/10/2021,Ahmedabad,Goa,08:45,15:50,1 stop via Bengaluru,5061.0
+1876,IndiGo,19/10/2021,Ahmedabad,Goa,08:45,15:50,1 stop via Bengaluru,5061.0
+1877,IndiGo,19/10/2021,Ahmedabad,Goa,09:20,16:25,1 stop via Mumbai,5061.0
+1878,IndiGo,19/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+1879,IndiGo,19/10/2021,Ahmedabad,Goa,07:20,13:55,1 stop via Hyderabad,5518.0
+1880,IndiGo,19/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,5518.0
+1881,IndiGo,19/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,5586.0
+1882,Go First,19/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,5638.0
+1883,Spicejet,19/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,6426.0
+1884,Air India,19/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+1885,Vistara,19/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,10552.0
+1886,Spicejet,20/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+1887,Spicejet,20/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+1888,Go First,20/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1889,Go First,20/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1890,Go First,20/10/2021,Ahmedabad,Goa,08:45,16:35,1 stop via Mumbai,5060.0
+1891,Go First,20/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+1892,Go First,20/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+1893,IndiGo,20/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5061.0
+1894,IndiGo,20/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,5061.0
+1895,IndiGo,20/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+1896,IndiGo,20/10/2021,Ahmedabad,Goa,07:20,13:55,1 stop via Hyderabad,5061.0
+1897,IndiGo,20/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+1898,IndiGo,20/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,5061.0
+1899,IndiGo,20/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+1900,Spicejet,20/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,5376.0
+1901,IndiGo,20/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5975.0
+1902,IndiGo,20/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,5975.0
+1903,Air India,20/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+1904,Go First,20/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,6794.0
+1905,Vistara,20/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,11579.0
+1906,Go First,21/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1907,Go First,21/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1908,Go First,21/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1909,Go First,21/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1910,Go First,21/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+1911,Go First,21/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+1912,Go First,21/10/2021,Ahmedabad,Goa,17:45,06:50,1 stop via Mumbai,5060.0
+1913,IndiGo,21/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+1914,IndiGo,21/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+1915,IndiGo,21/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+1916,IndiGo,21/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,5061.0
+1917,IndiGo,21/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+1918,IndiGo,21/10/2021,Ahmedabad,Goa,07:20,13:55,1 stop via Hyderabad,5518.0
+1919,IndiGo,21/10/2021,Ahmedabad,Goa,13:10,19:35,1 stop via Hyderabad,5518.0
+1920,Spicejet,21/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5796.0
+1921,IndiGo,21/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,5975.0
+1922,Air India,21/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+1923,Spicejet,21/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,7266.0
+1924,IndiGo,21/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,7581.0
+1925,Spicejet,21/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,8316.0
+1926,IndiGo,21/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,8841.0
+1927,Go First,21/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,9050.0
+1928,Vistara,21/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,11579.0
+1929,Spicejet,22/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+1930,Go First,22/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1931,Go First,22/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1932,Go First,22/10/2021,Ahmedabad,Goa,08:45,16:35,1 stop via Mumbai,5060.0
+1933,IndiGo,22/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+1934,IndiGo,22/10/2021,Ahmedabad,Goa,11:55,18:00,1 stop via Mumbai,5061.0
+1935,IndiGo,22/10/2021,Ahmedabad,Goa,11:55,18:00,1 stop via Mumbai,5061.0
+1936,IndiGo,22/10/2021,Ahmedabad,Goa,09:30,18:00,1 stop via Mumbai,5061.0
+1937,IndiGo,22/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+1938,IndiGo,22/10/2021,Ahmedabad,Goa,20:15,07:40,1 stop via Bengaluru,5061.0
+1939,IndiGo,22/10/2021,Ahmedabad,Goa,08:45,15:50,1 stop via Bengaluru,5518.0
+1940,IndiGo,22/10/2021,Ahmedabad,Goa,23:35,09:00,1 stop via Bengaluru,5518.0
+1941,IndiGo,22/10/2021,Ahmedabad,Goa,07:05,12:40,1 stop via Mumbai,5975.0
+1942,Air India,22/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+1943,Spicejet,22/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,6846.0
+1944,IndiGo,22/10/2021,Ahmedabad,Goa,13:10,19:35,1 stop via Hyderabad,6888.0
+1945,IndiGo,22/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,7056.0
+1946,Go First,22/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,7424.0
+1947,Spicejet,22/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,7790.0
+1948,IndiGo,22/10/2021,Ahmedabad,Goa,15:00,20:50,1 stop via Bengaluru,8258.0
+1949,IndiGo,22/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,8715.0
+1950,IndiGo,22/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,9261.0
+1951,Vistara,22/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,11579.0
+1952,Spicejet,23/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+1953,Spicejet,23/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+1954,Go First,23/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1955,Go First,23/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1956,Go First,23/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1957,Go First,23/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1958,Go First,23/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+1959,Go First,23/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+1960,Go First,23/10/2021,Ahmedabad,Goa,17:45,06:50,1 stop via Mumbai,5060.0
+1961,IndiGo,23/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+1962,IndiGo,23/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5061.0
+1963,IndiGo,23/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5061.0
+1964,IndiGo,23/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+1965,IndiGo,23/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,5061.0
+1966,IndiGo,23/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+1967,IndiGo,23/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,5586.0
+1968,Spicejet,23/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,5796.0
+1969,IndiGo,23/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5901.0
+1970,Air India,23/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+1971,Go First,23/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,6834.0
+1972,IndiGo,23/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,7345.0
+1973,Vistara,23/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,11579.0
+1974,Spicejet,24/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+1975,Spicejet,24/10/2021,Ahmedabad,Goa,08:30,09:55,Non stop,5060.0
+1976,Spicejet,24/10/2021,Ahmedabad,Goa,15:35,17:55,Non stop,5060.0
+1977,Spicejet,24/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+1978,Go First,24/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1979,Go First,24/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1980,Go First,24/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1981,Go First,24/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1982,Go First,24/10/2021,Ahmedabad,Goa,22:15,06:50,1 stop via Mumbai,5060.0
+1983,Go First,24/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+1984,Go First,24/10/2021,Ahmedabad,Goa,17:45,06:50,1 stop via Mumbai,5060.0
+1985,IndiGo,24/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5061.0
+1986,IndiGo,24/10/2021,Ahmedabad,Goa,09:45,11:45,Non stop,5061.0
+1987,Spicejet,25/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+1988,Spicejet,25/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+1989,Go First,25/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+1990,Go First,25/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1991,Go First,25/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+1992,Go First,25/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+1993,Go First,25/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+1994,Go First,25/10/2021,Ahmedabad,Goa,17:45,06:50,1 stop via Mumbai,5060.0
+1995,IndiGo,25/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5061.0
+1996,IndiGo,25/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,5061.0
+1997,IndiGo,25/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+1998,IndiGo,25/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5061.0
+1999,IndiGo,25/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5061.0
+2000,IndiGo,25/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+2001,IndiGo,25/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,5061.0
+2002,IndiGo,25/10/2021,Ahmedabad,Goa,08:45,15:50,1 stop via Bengaluru,5061.0
+2003,IndiGo,25/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,5061.0
+2004,IndiGo,25/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+2005,Spicejet,25/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,5376.0
+2006,Go First,25/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,5638.0
+2007,Air India,25/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+2008,Vistara,25/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,11579.0
+2009,Spicejet,26/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+2010,Spicejet,26/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+2011,Go First,26/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+2012,Go First,26/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+2013,Go First,26/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+2014,Go First,26/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+2015,Go First,26/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+2016,Go First,26/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+2017,Go First,26/10/2021,Ahmedabad,Goa,17:45,06:50,1 stop via Mumbai,5060.0
+2018,IndiGo,26/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5061.0
+2019,IndiGo,26/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+2020,IndiGo,26/10/2021,Ahmedabad,Goa,07:05,12:40,1 stop via Mumbai,5061.0
+2021,IndiGo,26/10/2021,Ahmedabad,Goa,07:05,12:40,1 stop via Mumbai,5061.0
+2022,IndiGo,26/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+2023,IndiGo,26/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,5061.0
+2024,IndiGo,26/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+2025,IndiGo,26/10/2021,Ahmedabad,Goa,15:00,20:50,1 stop via Bengaluru,5061.0
+2026,IndiGo,26/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,5586.0
+2027,Go First,26/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,5638.0
+2028,Spicejet,26/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,6110.0
+2029,Air India,26/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+2030,Vistara,26/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,10552.0
+2031,Spicejet,27/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5060.0
+2032,Spicejet,27/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+2033,Go First,27/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+2034,Go First,27/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+2035,Go First,27/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,5060.0
+2036,Go First,27/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+2037,Go First,27/10/2021,Ahmedabad,Goa,21:35,06:50,1 stop via Mumbai,5060.0
+2038,Go First,27/10/2021,Ahmedabad,Goa,19:55,06:50,1 stop via Mumbai,5060.0
+2039,IndiGo,27/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5061.0
+2040,IndiGo,27/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+2041,IndiGo,27/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5061.0
+2042,IndiGo,27/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,5061.0
+2043,IndiGo,27/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+2044,IndiGo,27/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,5061.0
+2045,IndiGo,27/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,5061.0
+2046,IndiGo,27/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5061.0
+2047,IndiGo,27/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,5166.0
+2048,Spicejet,27/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,5586.0
+2049,Go First,27/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,5638.0
+2050,Air India,27/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+2051,Vistara,27/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,10374.0
+2052,Spicejet,28/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+2053,Go First,28/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+2054,Go First,28/10/2021,Ahmedabad,Goa,09:00,15:10,1 stop via Bengaluru,5060.0
+2055,IndiGo,28/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+2056,IndiGo,28/10/2021,Ahmedabad,Goa,07:20,13:55,1 stop via Hyderabad,5061.0
+2057,IndiGo,28/10/2021,Ahmedabad,Goa,07:20,13:55,1 stop via Hyderabad,5061.0
+2058,IndiGo,28/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,5061.0
+2059,IndiGo,28/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,5061.0
+2060,IndiGo,28/10/2021,Ahmedabad,Goa,07:05,15:30,1 stop via Mumbai,5061.0
+2061,IndiGo,28/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5166.0
+2062,IndiGo,28/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,5166.0
+2063,Spicejet,28/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5376.0
+2064,Spicejet,28/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,6110.0
+2065,Go First,28/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,6216.0
+2066,Air India,28/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+2067,Air India,28/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+2068,Go First,28/10/2021,Ahmedabad,Goa,08:45,15:40,1 stop via Mumbai,7970.0
+2069,IndiGo,28/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,8159.0
+2070,Go First,28/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,8284.0
+2071,IndiGo,28/10/2021,Ahmedabad,Goa,07:05,12:40,1 stop via Mumbai,9786.0
+2072,IndiGo,28/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,11046.0
+2073,Vistara,28/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,13186.0
+2074,Spicejet,29/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5060.0
+2075,Go First,29/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+2076,IndiGo,29/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+2077,Spicejet,29/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5166.0
+2078,Go First,29/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,5638.0
+2079,IndiGo,29/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,5901.0
+2080,Spicejet,29/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,6110.0
+2081,Air India,29/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+2082,IndiGo,29/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,6846.0
+2083,IndiGo,29/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,8159.0
+2084,IndiGo,29/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,8159.0
+2085,IndiGo,29/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,8159.0
+2086,Go First,29/10/2021,Ahmedabad,Goa,08:45,16:35,1 stop via Mumbai,8284.0
+2087,IndiGo,29/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,8369.0
+2088,IndiGo,29/10/2021,Ahmedabad,Goa,07:05,15:30,1 stop via Mumbai,8631.0
+2089,Go First,29/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,10594.0
+2090,IndiGo,29/10/2021,Ahmedabad,Goa,07:05,12:40,1 stop via Mumbai,11571.0
+2091,IndiGo,29/10/2021,Ahmedabad,Goa,13:10,17:35,1 stop via Hyderabad,12884.0
+2092,Vistara,29/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,17190.0
+2093,Go First,30/10/2021,Ahmedabad,Goa,18:15,19:55,Non stop,5060.0
+2094,Go First,30/10/2021,Ahmedabad,Goa,21:35,10:30,1 stop via Mumbai,5060.0
+2095,Go First,30/10/2021,Ahmedabad,Goa,19:55,10:30,1 stop via Mumbai,5060.0
+2096,IndiGo,30/10/2021,Ahmedabad,Goa,19:25,21:10,Non stop,5061.0
+2097,IndiGo,30/10/2021,Ahmedabad,Goa,11:55,18:00,1 stop via Mumbai,5061.0
+2098,IndiGo,30/10/2021,Ahmedabad,Goa,09:30,18:00,1 stop via Mumbai,5061.0
+2099,Spicejet,30/10/2021,Ahmedabad,Goa,17:10,19:10,Non stop,5166.0
+2100,IndiGo,30/10/2021,Ahmedabad,Goa,15:10,19:20,1 stop via Mumbai,5518.0
+2101,Spicejet,30/10/2021,Ahmedabad,Goa,05:20,07:25,Non stop,5796.0
+2102,Go First,30/10/2021,Ahmedabad,Goa,10:00,11:40,Non stop,6216.0
+2103,IndiGo,30/10/2021,Ahmedabad,Goa,06:50,08:40,Non stop,6426.0
+2104,Spicejet,30/10/2021,Ahmedabad,Goa,12:05,14:25,Non stop,6426.0
+2105,Air India,30/10/2021,Ahmedabad,Goa,18:50,06:50,1 stop via Mumbai,6469.0
+2106,IndiGo,30/10/2021,Ahmedabad,Goa,13:05,14:55,Non stop,6846.0
+2107,Go First,30/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,9020.0
+2108,Go First,30/10/2021,Ahmedabad,Goa,08:45,13:55,1 stop via Mumbai,9020.0
+2109,IndiGo,30/10/2021,Ahmedabad,Goa,11:55,15:30,1 stop via Mumbai,9104.0
+2110,IndiGo,30/10/2021,Ahmedabad,Goa,09:30,15:30,1 stop via Mumbai,9261.0
+2111,IndiGo,30/10/2021,Ahmedabad,Goa,07:05,11:30,1 stop via Mumbai,9524.0
+2112,Vistara,30/10/2021,Ahmedabad,Goa,08:40,13:50,1 stop via New Delhi,16665.0
+2113,AirAsia,15/10/2021,Jaipur,Goa,21:10,12:25,1 stop via Hyderabad,6260.0
+2114,AirAsia,15/10/2021,Jaipur,Goa,23:05,07:25,1 stop via Mumbai,5485.0
+2115,AirAsia,15/10/2021,Jaipur,Goa,09:40,18:25,1 stop via Mumbai,5485.0
+2116,AirAsia,15/10/2021,Jaipur,Goa,17:35,07:00,"2 stop via Mumbai,Bengaluru",5485.0
+2117,AirAsia,15/10/2021,Jaipur,Goa,17:35,07:25,1 stop via Mumbai,5485.0
+2118,AirAsia,15/10/2021,Jaipur,Goa,21:10,12:25,1 stop via Hyderabad,5485.0
+2119,AirAsia,15/10/2021,Jaipur,Goa,17:15,12:25,"3 stop via Pune,Bengaluru,Hyderabad",7730.0
+2120,AirAsia,15/10/2021,Jaipur,Goa,23:05,07:25,1 stop via Mumbai,8219.0
+2121,AirAsia,15/10/2021,Jaipur,Goa,21:10,07:00,"2 stop via Hyderabad,Bengaluru",9413.0
+2122,AirAsia,15/10/2021,Jaipur,Goa,17:15,07:00,"2 stop via Pune,Bengaluru",9413.0
+2123,IndiGo,15/10/2021,Jaipur,Goa,21:15,08:40,1 stop via Ahmedabad,16031.0
+2124,AirAsia,16/10/2021,Jaipur,Goa,09:40,18:25,1 stop via Mumbai,5485.0
+2125,AirAsia,16/10/2021,Jaipur,Goa,17:35,07:00,"2 stop via Mumbai,Bengaluru",5485.0
+2126,AirAsia,16/10/2021,Jaipur,Goa,23:05,07:25,1 stop via Mumbai,5485.0
+2127,AirAsia,16/10/2021,Jaipur,Goa,17:35,07:25,1 stop via Mumbai,5485.0
+2128,AirAsia,16/10/2021,Jaipur,Goa,21:10,12:25,1 stop via Hyderabad,5485.0
+2129,Go First,16/10/2021,Jaipur,Goa,18:30,06:50,1 stop via Mumbai,5489.0
+2130,AirAsia,16/10/2021,Jaipur,Goa,21:10,07:00,"2 stop via Hyderabad,Bengaluru",5630.0
+2131,IndiGo,16/10/2021,Jaipur,Goa,06:15,10:45,1 stop via Hyderabad,6266.0
+2132,IndiGo,16/10/2021,Jaipur,Goa,06:25,11:30,1 stop via Mumbai,6266.0
+2133,IndiGo,16/10/2021,Jaipur,Goa,07:20,12:40,1 stop via Mumbai,6754.0
+2134,IndiGo,16/10/2021,Jaipur,Goa,06:30,11:40,1 stop via Bengaluru,7243.0
+2135,IndiGo,16/10/2021,Jaipur,Goa,10:50,15:50,1 stop via Bengaluru,7243.0
+2136,AirAsia,16/10/2021,Jaipur,Goa,09:40,16:35,"2 stop via Mumbai,Bengaluru",7243.0
+2137,IndiGo,16/10/2021,Jaipur,Goa,12:10,18:00,1 stop via Mumbai,7731.0
+2138,"IndiGo, Spicejet",16/10/2021,Jaipur,Goa,13:00,19:10,1 stop via Ahmedabad,9962.0
+2139,Go First,16/10/2021,Jaipur,Goa,08:20,11:40,1 stop via Ahmedabad,12280.0
+2140,"Air India, IndiGo",16/10/2021,Jaipur,Goa,14:00,19:20,1 stop via Mumbai,12734.0
+2141,AirAsia,17/10/2021,Jaipur,Goa,09:40,18:25,1 stop via Mumbai,5485.0
+2142,AirAsia,17/10/2021,Jaipur,Goa,23:05,07:25,1 stop via Mumbai,5485.0
+2143,Go First,17/10/2021,Jaipur,Goa,10:50,15:40,1 stop via Mumbai,5489.0
+2144,Go First,17/10/2021,Jaipur,Goa,18:30,06:50,1 stop via Mumbai,5489.0
+2145,AirAsia,17/10/2021,Jaipur,Goa,17:35,07:25,1 stop via Mumbai,6260.0
+2146,IndiGo,17/10/2021,Jaipur,Goa,06:25,11:05,1 stop via Mumbai,6266.0
+2147,IndiGo,17/10/2021,Jaipur,Goa,07:20,12:40,1 stop via Mumbai,6266.0
+2148,IndiGo,17/10/2021,Jaipur,Goa,13:55,21:20,1 stop via New Delhi,6754.0
+2149,IndiGo,17/10/2021,Jaipur,Goa,06:15,10:45,1 stop via Hyderabad,7243.0
+2150,IndiGo,17/10/2021,Jaipur,Goa,06:30,11:40,1 stop via Bengaluru,7243.0
+2151,IndiGo,17/10/2021,Jaipur,Goa,07:40,12:50,1 stop via New Delhi,7731.0
+2152,Go First,17/10/2021,Jaipur,Goa,09:25,11:40,Non stop,7789.0
+2153,"Spicejet, IndiGo",17/10/2021,Jaipur,Goa,07:50,15:30,"2 stop via Surat,Mumbai",9688.0
+2154,IndiGo,17/10/2021,Jaipur,Goa,10:50,15:50,1 stop via Bengaluru,10660.0
+2155,Air India,17/10/2021,Jaipur,Goa,14:00,20:45,1 stop via Mumbai,18446.0
+2156,AirAsia,18/10/2021,Jaipur,Goa,09:40,18:25,1 stop via Mumbai,5485.0
+2157,AirAsia,18/10/2021,Jaipur,Goa,21:10,07:00,"2 stop via Hyderabad,Bengaluru",5485.0
+2158,AirAsia,18/10/2021,Jaipur,Goa,17:35,07:00,"2 stop via Mumbai,Bengaluru",5485.0
+2159,AirAsia,18/10/2021,Jaipur,Goa,17:35,07:25,1 stop via Mumbai,5485.0
+2160,AirAsia,18/10/2021,Jaipur,Goa,21:10,12:25,1 stop via Hyderabad,5485.0
+2161,Go First,18/10/2021,Jaipur,Goa,10:50,16:35,1 stop via Mumbai,5489.0
+2162,Go First,18/10/2021,Jaipur,Goa,08:20,19:55,1 stop via Ahmedabad,5489.0
+2163,Go First,18/10/2021,Jaipur,Goa,18:30,06:50,1 stop via Mumbai,5489.0
+2164,IndiGo,18/10/2021,Jaipur,Goa,06:25,11:30,1 stop via Mumbai,6266.0
+2165,IndiGo,18/10/2021,Jaipur,Goa,07:20,12:40,1 stop via Mumbai,6266.0
+2166,IndiGo,18/10/2021,Jaipur,Goa,12:10,18:00,1 stop via Mumbai,6266.0
+2167,IndiGo,18/10/2021,Jaipur,Goa,06:15,10:45,1 stop via Hyderabad,6754.0
+2168,IndiGo,18/10/2021,Jaipur,Goa,07:40,12:50,1 stop via New Delhi,7243.0
+2169,IndiGo,18/10/2021,Jaipur,Goa,10:50,15:50,1 stop via Bengaluru,7243.0
+2170,"Spicejet, Go First",18/10/2021,Jaipur,Goa,06:25,11:40,1 stop via Ahmedabad,10223.0
+2171,Go First,18/10/2021,Jaipur,Goa,08:20,11:40,1 stop via Ahmedabad,10435.0
+2172,Air India,18/10/2021,Jaipur,Goa,14:00,20:30,1 stop via Mumbai,11464.0
+2173,AirAsia,19/10/2021,Jaipur,Goa,21:10,12:25,1 stop via Hyderabad,5485.0
+2174,Go First,19/10/2021,Jaipur,Goa,08:20,19:55,1 stop via Ahmedabad,5489.0
+2175,Go First,19/10/2021,Jaipur,Goa,18:30,06:50,1 stop via Mumbai,5489.0
+2176,AirAsia,19/10/2021,Jaipur,Goa,21:10,07:00,"2 stop via Hyderabad,Bengaluru",5630.0
+2177,AirAsia,19/10/2021,Jaipur,Goa,17:35,07:00,"2 stop via Mumbai,Bengaluru",6260.0
+2178,IndiGo,19/10/2021,Jaipur,Goa,06:15,10:45,1 stop via Hyderabad,6266.0
+2179,IndiGo,19/10/2021,Jaipur,Goa,06:25,16:25,1 stop via Mumbai,6266.0
+2180,IndiGo,19/10/2021,Jaipur,Goa,13:55,21:20,1 stop via New Delhi,6754.0
+2181,IndiGo,19/10/2021,Jaipur,Goa,06:30,11:40,1 stop via Bengaluru,7243.0
+2182,IndiGo,19/10/2021,Jaipur,Goa,07:40,12:50,1 stop via New Delhi,7243.0
+2183,IndiGo,19/10/2021,Jaipur,Goa,10:50,15:50,1 stop via Bengaluru,7243.0
+2184,IndiGo,19/10/2021,Jaipur,Goa,10:05,17:25,1 stop via Chennai,7243.0
+2185,"Spicejet, Go First",19/10/2021,Jaipur,Goa,06:25,11:40,1 stop via Ahmedabad,10223.0
+2186,Go First,19/10/2021,Jaipur,Goa,08:20,11:40,1 stop via Ahmedabad,10435.0
+2187,Air India,19/10/2021,Jaipur,Goa,14:00,20:30,1 stop via Mumbai,13406.0
+2188,AirAsia,20/10/2021,Jaipur,Goa,09:40,16:35,"2 stop via Mumbai,Bengaluru",5485.0
+2189,AirAsia,20/10/2021,Jaipur,Goa,09:40,18:25,1 stop via Mumbai,5485.0
+2190,AirAsia,20/10/2021,Jaipur,Goa,21:10,07:00,"2 stop via Hyderabad,Bengaluru",5485.0
+2191,AirAsia,20/10/2021,Jaipur,Goa,17:35,07:00,"2 stop via Mumbai,Bengaluru",5485.0
+2192,AirAsia,20/10/2021,Jaipur,Goa,17:35,07:25,1 stop via Mumbai,5485.0
+2193,AirAsia,20/10/2021,Jaipur,Goa,21:10,12:25,1 stop via Hyderabad,5485.0
+2194,Go First,20/10/2021,Jaipur,Goa,10:50,16:35,1 stop via Mumbai,5489.0
+2195,Go First,20/10/2021,Jaipur,Goa,08:20,19:55,1 stop via Ahmedabad,5489.0
+2196,IndiGo,20/10/2021,Jaipur,Goa,06:25,11:30,1 stop via Mumbai,6266.0
+2197,IndiGo,20/10/2021,Jaipur,Goa,07:20,12:40,1 stop via Mumbai,6266.0
+2198,IndiGo,20/10/2021,Jaipur,Goa,12:10,18:00,1 stop via Mumbai,6266.0
+2199,IndiGo,20/10/2021,Jaipur,Goa,06:15,10:45,1 stop via Hyderabad,6754.0
+2200,IndiGo,20/10/2021,Jaipur,Goa,06:30,11:40,1 stop via Bengaluru,7243.0
+2201,IndiGo,20/10/2021,Jaipur,Goa,10:50,15:50,1 stop via Bengaluru,7243.0
+2202,"Spicejet, IndiGo",20/10/2021,Jaipur,Goa,08:00,15:30,"2 stop via Surat,Mumbai",9793.0
+2203,Air India,20/10/2021,Jaipur,Goa,14:00,20:30,1 stop via Mumbai,10256.0
+2204,Go First,20/10/2021,Jaipur,Goa,08:20,11:40,1 stop via Ahmedabad,12280.0
+2205,AirAsia,21/10/2021,Jaipur,Goa,09:40,16:35,"2 stop via Mumbai,Bengaluru",5485.0
+2206,AirAsia,21/10/2021,Jaipur,Goa,09:40,18:25,1 stop via Mumbai,5485.0
+2207,AirAsia,21/10/2021,Jaipur,Goa,17:35,07:25,1 stop via Mumbai,5485.0
+2208,Go First,21/10/2021,Jaipur,Goa,10:50,16:35,1 stop via Mumbai,5489.0
+2209,Go First,21/10/2021,Jaipur,Goa,08:20,19:55,1 stop via Ahmedabad,5489.0
+2210,Go First,21/10/2021,Jaipur,Goa,18:30,06:50,1 stop via Mumbai,5489.0
+2211,AirAsia,21/10/2021,Jaipur,Goa,21:10,07:00,"2 stop via Hyderabad,Bengaluru",5826.0
+2212,AirAsia,21/10/2021,Jaipur,Goa,17:35,07:00,"2 stop via Mumbai,Bengaluru",5826.0
+2213,IndiGo,21/10/2021,Jaipur,Goa,07:20,12:40,1 stop via Mumbai,6266.0
+2214,IndiGo,21/10/2021,Jaipur,Goa,06:25,12:40,1 stop via Mumbai,6266.0
+2215,IndiGo,21/10/2021,Jaipur,Goa,06:15,13:55,1 stop via Hyderabad,6266.0
+2216,IndiGo,21/10/2021,Jaipur,Goa,12:10,18:00,1 stop via Mumbai,6266.0
+2217,IndiGo,21/10/2021,Jaipur,Goa,13:00,21:10,1 stop via Ahmedabad,6266.0
+2218,IndiGo,21/10/2021,Jaipur,Goa,06:15,10:45,1 stop via Hyderabad,6754.0
+2219,IndiGo,21/10/2021,Jaipur,Goa,13:55,21:20,1 stop via New Delhi,6754.0
+2220,IndiGo,21/10/2021,Jaipur,Goa,06:30,11:40,1 stop via Bengaluru,7243.0
+2221,IndiGo,21/10/2021,Jaipur,Goa,10:50,15:50,1 stop via Bengaluru,7243.0
+2222,AirAsia,15/10/2021,Kolkata,Goa,21:50,07:00,1 stop via Bengaluru,9636.0
+2223,AirAsia,15/10/2021,Kolkata,Goa,20:00,07:25,1 stop via Mumbai,9636.0
+2224,AirAsia,15/10/2021,Kolkata,Goa,22:10,14:35,1 stop via New Delhi,9636.0
+2225,Spicejet,15/10/2021,Kolkata,Goa,17:40,19:35,1 stop via Chennai,9638.0
+2226,IndiGo,15/10/2021,Kolkata,Goa,21:55,07:40,1 stop via Bengaluru,9639.0
+2227,IndiGo,15/10/2021,Kolkata,Goa,21:00,07:40,1 stop via Bengaluru,9639.0
+2228,IndiGo,15/10/2021,Kolkata,Goa,23:25,08:30,1 stop via Hyderabad,9639.0
+2229,IndiGo,15/10/2021,Kolkata,Goa,20:35,08:45,1 stop via Mumbai,9639.0
+2230,AirAsia,15/10/2021,Kolkata,Goa,16:15,07:00,1 stop via Bengaluru,10057.0
+2231,IndiGo,15/10/2021,Kolkata,Goa,20:50,08:40,1 stop via Ahmedabad,11183.0
+2232,IndiGo,15/10/2021,Kolkata,Goa,22:30,08:55,1 stop via New Delhi,11183.0
+2233,IndiGo,15/10/2021,Kolkata,Goa,20:20,08:55,1 stop via New Delhi,11183.0
+2234,Vistara,15/10/2021,Kolkata,Goa,20:20,10:55,1 stop via New Delhi,16149.0
+2235,Air India,15/10/2021,Kolkata,Goa,19:00,06:50,"2 stop via Hyderabad,Mumbai",18879.0
+2236,AirAsia,16/10/2021,Kolkata,Goa,07:40,14:35,1 stop via New Delhi,9636.0
+2237,AirAsia,16/10/2021,Kolkata,Goa,00:05,14:35,1 stop via New Delhi,9636.0
+2238,AirAsia,16/10/2021,Kolkata,Goa,08:45,16:35,1 stop via Bengaluru,9636.0
+2239,AirAsia,16/10/2021,Kolkata,Goa,21:50,07:00,1 stop via Bengaluru,9636.0
+2240,AirAsia,16/10/2021,Kolkata,Goa,20:05,07:00,1 stop via Bengaluru,9636.0
+2241,AirAsia,16/10/2021,Kolkata,Goa,16:10,07:00,1 stop via Bengaluru,9636.0
+2242,AirAsia,16/10/2021,Kolkata,Goa,21:40,07:25,1 stop via Mumbai,9636.0
+2243,AirAsia,16/10/2021,Kolkata,Goa,22:10,07:50,1 stop via New Delhi,9636.0
+2244,IndiGo,16/10/2021,Kolkata,Goa,01:10,08:55,1 stop via New Delhi,9639.0
+2245,IndiGo,16/10/2021,Kolkata,Goa,05:45,10:45,1 stop via Hyderabad,9639.0
+2246,IndiGo,16/10/2021,Kolkata,Goa,07:30,12:30,1 stop via Bengaluru,9639.0
+2247,IndiGo,16/10/2021,Kolkata,Goa,06:05,12:50,1 stop via New Delhi,9639.0
+2248,IndiGo,16/10/2021,Kolkata,Goa,10:40,15:50,1 stop via Bengaluru,9639.0
+2249,IndiGo,16/10/2021,Kolkata,Goa,08:35,15:50,1 stop via Bengaluru,9639.0
+2250,IndiGo,16/10/2021,Kolkata,Goa,13:20,19:35,1 stop via Hyderabad,9639.0
+2251,IndiGo,16/10/2021,Kolkata,Goa,09:40,19:35,1 stop via Hyderabad,9639.0
+2252,IndiGo,16/10/2021,Kolkata,Goa,14:05,20:50,1 stop via Bengaluru,9639.0
+2253,IndiGo,16/10/2021,Kolkata,Goa,21:55,07:40,1 stop via Bengaluru,9639.0
+2254,IndiGo,16/10/2021,Kolkata,Goa,21:00,07:40,1 stop via Bengaluru,9639.0
+2255,IndiGo,16/10/2021,Kolkata,Goa,23:25,08:30,1 stop via Hyderabad,9639.0
+2256,IndiGo,16/10/2021,Kolkata,Goa,22:00,08:30,1 stop via Hyderabad,9639.0
+2257,IndiGo,16/10/2021,Kolkata,Goa,22:30,08:55,1 stop via New Delhi,9639.0
+2258,IndiGo,16/10/2021,Kolkata,Goa,09:40,17:35,1 stop via Hyderabad,10411.0
+2259,"Spicejet, IndiGo",16/10/2021,Kolkata,Goa,11:20,19:35,"2 stop via Visakhapatnam,Hyderabad",11466.0
+2260,IndiGo,16/10/2021,Kolkata,Goa,11:25,14:20,Non stop,12579.0
+2261,IndiGo,16/10/2021,Kolkata,Goa,14:15,21:20,1 stop via New Delhi,12726.0
+2262,"Spicejet, Go First",16/10/2021,Kolkata,Goa,08:50,15:10,1 stop via Bengaluru,12927.0
+2263,Spicejet,16/10/2021,Kolkata,Goa,09:00,11:20,Non stop,12998.0
+2264,Go First,16/10/2021,Kolkata,Goa,05:30,11:40,"2 stop via Jaipur,Ahmedabad",13345.0
+2265,Vistara,16/10/2021,Kolkata,Goa,07:10,13:50,1 stop via New Delhi,16569.0
+2266,Air India,16/10/2021,Kolkata,Goa,20:40,10:05,"2 stop via New Delhi,Surat",18082.0
+2267,AirAsia,17/10/2021,Kolkata,Goa,00:05,07:50,1 stop via New Delhi,9636.0
+2268,AirAsia,17/10/2021,Kolkata,Goa,07:40,14:35,1 stop via New Delhi,9636.0
+2269,AirAsia,17/10/2021,Kolkata,Goa,10:35,15:00,1 stop via Hyderabad,9636.0
+2270,AirAsia,17/10/2021,Kolkata,Goa,21:50,07:00,1 stop via Bengaluru,9636.0
+2271,AirAsia,17/10/2021,Kolkata,Goa,20:05,07:00,1 stop via Bengaluru,9636.0
+2272,AirAsia,17/10/2021,Kolkata,Goa,22:10,07:50,1 stop via New Delhi,9636.0
+2273,Go First,17/10/2021,Kolkata,Goa,05:45,11:05,1 stop via Mumbai,9638.0
+2274,IndiGo,17/10/2021,Kolkata,Goa,01:10,08:55,1 stop via New Delhi,9639.0
+2275,IndiGo,17/10/2021,Kolkata,Goa,05:45,10:45,1 stop via Hyderabad,9639.0
+2276,IndiGo,17/10/2021,Kolkata,Goa,07:30,12:30,1 stop via Bengaluru,9639.0
+2277,IndiGo,17/10/2021,Kolkata,Goa,05:40,14:10,1 stop via Indore,9639.0
+2278,IndiGo,17/10/2021,Kolkata,Goa,21:55,07:40,1 stop via Bengaluru,9639.0
+2279,IndiGo,17/10/2021,Kolkata,Goa,21:00,07:40,1 stop via Bengaluru,9639.0
+2280,IndiGo,17/10/2021,Kolkata,Goa,23:25,08:30,1 stop via Hyderabad,9639.0
+2281,IndiGo,17/10/2021,Kolkata,Goa,22:00,08:30,1 stop via Hyderabad,9639.0
+2282,IndiGo,17/10/2021,Kolkata,Goa,22:30,08:55,1 stop via New Delhi,9639.0
+2283,AirAsia,17/10/2021,Kolkata,Goa,05:25,15:25,"2 stop via Guwahati,New Delhi",10057.0
+2284,IndiGo,17/10/2021,Kolkata,Goa,08:35,15:50,1 stop via Bengaluru,10411.0
+2285,Spicejet,17/10/2021,Kolkata,Goa,08:40,10:55,Non stop,10688.0
+2286,AirAsia,17/10/2021,Kolkata,Goa,21:40,07:25,1 stop via Mumbai,11107.0
+2287,IndiGo,17/10/2021,Kolkata,Goa,11:25,14:20,Non stop,11109.0
+2288,IndiGo,17/10/2021,Kolkata,Goa,10:40,15:50,1 stop via Bengaluru,11954.0
+2289,IndiGo,17/10/2021,Kolkata,Goa,14:05,20:50,1 stop via Bengaluru,11954.0
+2290,IndiGo,17/10/2021,Kolkata,Goa,14:15,21:20,1 stop via New Delhi,12726.0
+2291,"IndiGo, Go First",17/10/2021,Kolkata,Goa,08:35,15:10,1 stop via Bengaluru,13871.0
+2292,"Spicejet, Go First",17/10/2021,Kolkata,Goa,08:50,15:10,1 stop via Bengaluru,13975.0
+2293,Go First,17/10/2021,Kolkata,Goa,05:30,11:40,1 stop via Jaipur,15640.0
+2294,Vistara,17/10/2021,Kolkata,Goa,07:10,13:50,1 stop via New Delhi,17934.0
+2295,"Air India, IndiGo",17/10/2021,Kolkata,Goa,09:10,17:35,"2 stop via Bhubaneswar,Hyderabad",20707.0
